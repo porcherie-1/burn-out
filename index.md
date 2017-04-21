@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[image burnout](http://www.psysteme.lu/wp-content/uploads/2014/05/Burn-out.jpg)
+![image burnout](http://www.psysteme.lu/wp-content/uploads/2014/05/Burn-out.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
