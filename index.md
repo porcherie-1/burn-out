@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/jRxWWFl4tMM" frameborder="2" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/jRxWWFl4tMM" frameborder="20" allowfullscreen></iframe>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/controverses/burn-out/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
