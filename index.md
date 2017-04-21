@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+> regarde la belle image
 
 ![image burnout](http://www.psysteme.lu/wp-content/uploads/2014/05/Burn-out.jpg)
 
