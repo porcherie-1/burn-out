@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages CLEJE
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/page1.md)
+[Lien vers l'autre page](https://controverses.github.io/burn-out/page1.html)
 
 You can use the [editor on GitHub](https://github.com/controverses/burn-out/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
