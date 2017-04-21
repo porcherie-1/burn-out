@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages CLEJE
 
 [Lien vers l'autre page](https://controverses.github.io/burn-out/prévenir.md)
-[Lien vers l'autre page](https://controverses.github.io/burn-out/réparer.md)
-[Lien vers l'autre page](https://controverses.github.io/burn-out/reconnaître.md)
+[Lien vers l'autre page](https://controverses.github.io/burn-out/reparer.md)
+[Lien vers l'autre page](https://controverses.github.io/burn-out/reconnaitre.md)
 [Lien vers l'autre page](https://controverses.github.io/burn-out/parler.md)
 
 You can use the [editor on GitHub](https://github.com/controverses/burn-out/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
