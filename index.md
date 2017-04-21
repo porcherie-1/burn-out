@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages CLEJE
 
 You can use the [editor on GitHub](https://github.com/controverses/burn-out/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
