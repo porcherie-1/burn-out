@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages CLEJE
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/prévenir.md)
+[Lien vers l'autre page](https://controverses.github.io/burn-out/prevenir.md)
 [Lien vers l'autre page](https://controverses.github.io/burn-out/reparer.md)
 [Lien vers l'autre page](https://controverses.github.io/burn-out/reconnaitre.md)
 [Lien vers l'autre page](https://controverses.github.io/burn-out/parler.md)
