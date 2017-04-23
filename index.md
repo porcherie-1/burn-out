@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages CLEJE
+# Accueil
+
+## Pourquoi étudier le burnout?
+
+
+Je sais pas ce qu'on peut mettre en plus sur la page d'accueil j'y réfléchis
 
 [Lien vers l'autre page](https://controverses.github.io/burn-out/prevenir.md)
 [Lien vers l'autre page](https://controverses.github.io/burn-out/reparer.md)
@@ -47,9 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-### Accueil
 
-## Pourquoi étudier le burnout?
-
-
-Je sais pas ce qu'on peut mettre en plus sur la page d'accueil j'y réfléchis
