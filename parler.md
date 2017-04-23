@@ -1,5 +1,6 @@
 # Parler de la souffrance au travail
 
+
 Définition ou non - construction sociale …. Loriol
 
 Critères (ou absence)
