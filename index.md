@@ -6,15 +6,15 @@
 
 Je sais pas ce qu'on peut mettre en plus sur la page d'accueil j'y réfléchis
 
-[Prévenir](https://controverses.github.io/burn-out/prevenir.md) prévenir
+[Prévenir](https://controverses.github.io/burn-out/prevenir.md) 
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/reparer.md) réparer
+[Réparer](https://controverses.github.io/burn-out/reparer.md) 
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/reconnaitre.md)  reconnaître
+[Reconnaître](https://controverses.github.io/burn-out/reconnaitre.md)  
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/parler.md) parler
+[Parler](https://controverses.github.io/burn-out/parler.md) 
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/acteurs.md) Fiches acteurs
+[Fiches acteurs](https://controverses.github.io/burn-out/acteurs.md) 
 
 You can use the [editor on GitHub](https://github.com/controverses/burn-out/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
