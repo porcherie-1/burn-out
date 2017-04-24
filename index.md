@@ -6,7 +6,7 @@
 
 Je sais pas ce qu'on peut mettre en plus sur la page d'accueil j'y réfléchis
 
-[Lien vers l'autre page](https://controverses.github.io/burn-out/prevenir.md) prévenir
+[Prévenir](https://controverses.github.io/burn-out/prevenir.md) prévenir
 
 [Lien vers l'autre page](https://controverses.github.io/burn-out/reparer.md) réparer
 
