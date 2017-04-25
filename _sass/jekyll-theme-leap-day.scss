@@ -247,11 +247,12 @@ header {
     list-style:none;
     height:40px;
     padding:0;
-    // float: left;
+    float: left;
     margin-left:10px;
 
     li {
-      display:inline-block;
+      display:inline;
+      position:relative;
 
       a.button {
         background-color: #FFE788;
