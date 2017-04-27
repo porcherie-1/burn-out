@@ -22,6 +22,6 @@
 
 
 
-[Fiches acteurs](https://controverses.github.io/burn-out/acteurs#Sébastien)
+[Fiches acteurs](https://controverses.github.io/burn-out/acteurs)
 
 
