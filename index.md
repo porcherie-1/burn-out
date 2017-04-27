@@ -19,7 +19,7 @@
 
 
 
-<a href="https://controverses.github.io/burn-out/acteurs.md#Sébastien" target="_blank">JPV</a>
+<a href="https://controverses.github.io/burn-out/acteurs.html#Sébastien" target="_blank">JPV</a>
 
 
 
