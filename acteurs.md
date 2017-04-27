@@ -79,6 +79,6 @@ b
 
 n
 
-<h2 name="Sébastien">Témoignages anonymisés</h2>
+<h2 id="Sébastien">Témoignages anonymisés</h2>
 
 ## Témoignages anonymisés (Sébastien Lautié)
