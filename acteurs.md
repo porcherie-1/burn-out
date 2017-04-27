@@ -77,8 +77,6 @@ v
 
 n
 
-<h2 id="Sébastien">Témoignages anonymisés</h2>
 
 ## Témoignages anonymisés (Sébastien Lautié)
 
-<h2 id="mon_ancre">Titre</h2>
