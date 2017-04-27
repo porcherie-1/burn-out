@@ -15,6 +15,8 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 - Fragilité/caractéristiques de l'individu
 - Sécurité Sociale ? 
 
+DRH Caroline Guillotin contre sanctions sur les entreprises, déjà trop de contraintes 
+
 Julie
 
 
