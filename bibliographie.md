@@ -1,5 +1,6 @@
 # Bibliographie 
 
+
 ## Articles sociologiques 
 - Guillaume Lecœur, « Le stress : un objet d'étude pertinent pour les sciences sociales ? », Idées économiques et sociales 2011/2 (N° 164), p. 51-59. 
 - Marc Loriol, « La construction sociale du stress : entre objectivation, subjectivité et régulations collectives des difficultés au travail », Nouvelle revue de psychosociologie 2010/2 (n° 10), p. 111-124.
