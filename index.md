@@ -18,5 +18,6 @@
 [Fiches acteurs](https://controverses.github.io/burn-out/acteurs "Sébastien Lautié") 
 
 
-<a href="https://controverses.github.io/burn-out/acteurs.html#Sébastien" target="_blank">JPV</a>
+
+<a href="https://controverses.github.io/burn-out/acteurs.html#Sébastien">JPV</a><br />
 
