@@ -23,5 +23,3 @@
 
 
 [Fiches acteurs](https://controverses.github.io/burn-out/acteurs)
-
-
