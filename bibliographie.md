@@ -25,6 +25,8 @@ http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues
 ## Dossier de presse 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
+- Céline Boff, "Burn-out : En France, avoir l'air heureux au travail est suspect", _20 minutes_, octobre 2015
+http://www.20minutes.fr/economie/1705363-20151008-burn-out-france-avoir-air-heureux-travail-suspect 
 - Julien Massillon, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
 http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet-a-fait-un-burn-out-apres-l-echec-de-son-film-blood-ties-620711
 - Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
