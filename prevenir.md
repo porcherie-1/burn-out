@@ -4,12 +4,12 @@ Laura
 
 ## Propositions du rapport de l'Assemblée nationale 
 
-## Organisation du travail 
+## Organisation du travail (MANAGEMENT)
 - Entreprise libérée, nouveau management 
 - Nouvelle formation spécifique ? 
 - Points de vue des 2 RH 
 
-## Entretien les délégués sociaux 
+## Qui impliquer ? Entretien les délégués sociaux 
 - JPV
 - Délégué du personnel d'Hamon 
 
