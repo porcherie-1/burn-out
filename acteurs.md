@@ -75,8 +75,6 @@ c
 
 v
 
-b
-
 n
 
 <h2 id="Sébastien">Témoignages anonymisés</h2>
