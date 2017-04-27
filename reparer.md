@@ -2,8 +2,11 @@
 
 
 ## Maladie Professionnelle
+- 3 voies de reconnaissance 
 
-## Sanctions, qui paie
+## Sanctions, qui paie ? 
+- Entreprise ? 
+- Sécurité Sociale ? 
 
 ## Rôle des entreprises
 
