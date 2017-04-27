@@ -3,7 +3,9 @@
 
 ## Maladie Professionnelle
 - 3 voies de reconnaissance 
+
 Eva
+
 - Accident du travail (JPV)
 Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 
@@ -12,10 +14,12 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 - Patronat/chefs de service 
 - Fragilité/caractéristiques de l'individu
 - Sécurité Sociale ? 
+
 Julie
 
 
 ## Procès exemple (cf. Loic Lerouge) 
+
 Claire
 
 Transition : 3 types de prévention. Réparation <=> prévention tertiaire: Après un pb, on répare et on prévient... 
