@@ -16,10 +16,22 @@ http://sudeducation37.fr/IMG/pdf/article_548407.pdf
 http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487 
 
 ## Domaine médical
-- Florence Rosier, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
 - Catherine Riva, "Le burnout : une maladie qui n'existe pas ?", _Le Matin_, in Association des Médecins du canton de Genève, 17 décembre 2006
+- Florence Rosier, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
+- "Epuisement professionnel et dépression peuvent être distingués par la salive et le sang", _Psychomédia_, 23 février 2011
+http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues-par-des-mesures-biologiques 
+`
 
 ## Dossier de presse 
+- Pub Pepsi sur le Burn-out (France - 2011)
+http://www.culturepub.fr/videos/pepsi-max-burnout/
+- Julien Massillon, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
+http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet-a-fait-un-burn-out-apres-l-echec-de-son-film-blood-ties-620711
+- Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
+- Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016  tre a
+http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
+- 
+
 
 ## Ouvrage général 
 ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
