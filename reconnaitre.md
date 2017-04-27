@@ -7,6 +7,7 @@ par rapport aux RPS, "bout du bout du bout de la souffrance", terminologie a du 
 ## Mesurer le burn-out
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
+Vs : cf l'article d'Eva 
  
 ## Construction sociale du burn-out 
 Loriol, performativité de la notion 
