@@ -13,7 +13,7 @@
 
 [Reconnaître](https://controverses.github.io/burn-out/reconnaitre)   
 
-[Fiches acteurs](https://controverses.github.io/burn-out/acteurs) 
+[Fiches acteurs](https://controverses.github.io/burn-out/acteurs "Sébastien Lautié") 
 
 
 
