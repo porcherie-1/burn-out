@@ -6,7 +6,7 @@
 
 ## Maslach
 
-# EVA YAS
+# EVA 
 
 
 [Prévenir](https://controverses.github.io/burn-out/prevenir) 
