@@ -15,6 +15,10 @@ http://sudeducation37.fr/IMG/pdf/article_548407.pdf
 - Rapport d'information de l'Assemblée nationale, _Assemblée nationale_, 15 février 2017 
 http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487 
 
+## Domaine médical
+- Florence Rosier, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
+- Catherine Riva, "Le burnout : une maladie qui n'existe pas ?", _Le Matin_, in Association des Médecins du canton de Genève, 17 décembre 2006
+
 ## Dossier de presse 
 
 ## Ouvrage général 
