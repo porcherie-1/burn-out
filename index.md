@@ -18,7 +18,7 @@
 [Fiches acteurs](https://controverses.github.io/burn-out/acteurs) 
 
 
-<a href="https://github.com/controverses/burn-out/blob/master/acteurs#mon_ancre" target="_blank">JPV</a>
+<a href="https://controverses.github.io/burn-out/acteurs#mon_ancre" target="_blank">JPV</a>
 
 
 
