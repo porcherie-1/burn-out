@@ -4,15 +4,15 @@
 ## Maladie Professionnelle
 - 3 voies de reconnaissance 
 
-## Sanctions, qui paie ? 
-- Entreprise ? 
+## Sanctions, qui paie ? Reponsabilité 
+- Entreprise ? (organisation) 
+- Patronat/chefs de service 
+- Fragilité/caractéristiques de l'individu
 - Sécurité Sociale ? 
 
-## Rôle des entreprises
-
 ## Accident du travail (JPV) ?
+Contre-partie : juriste de Hamon, cette catégorie n'est pas suffisante non plus 
 
-## Comment réparer
+## Procès exemple (cf. Loic Lerouge) 
 
-## Procès exemple
-
+Transition : 3 types de prévention. Après un pb, on répare et on prévient... 
