@@ -10,9 +10,7 @@ Je sais pas ce qu'on peut mettre en plus sur la page d'accueil j'y réfléchis
 
 [Réparer](https://controverses.github.io/burn-out/reparer.md) 
 
-[Reconnaître](https://controverses.github.io/burn-out/reconnaitre.md)  
-
-[Parler](https://controverses.github.io/burn-out/parler.md) 
+[Reconnaître](https://controverses.github.io/burn-out/reconnaitre.md)   
 
 [Fiches acteurs](https://controverses.github.io/burn-out/acteurs.md) 
 
