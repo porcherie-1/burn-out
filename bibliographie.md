@@ -9,10 +9,6 @@
 - Association Stop Burnout : http://assostopburnout.wixsite.com/asbo
 - Association France Prévention : http://www.associationfranceprevention.org/ 
 
-## Etudes sur le burn-out 
-- Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
-- Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
-
 ## Domaine juridique 
 - Mathilde Goanec, Difficile consensus autour du burn out, _Mediapart.fr_, 4 juillet 2015
 http://sudeducation37.fr/IMG/pdf/article_548407.pdf 
@@ -34,6 +30,10 @@ http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet
 - Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
 - Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016  tre a
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
+
+## Etudes sur le burn-out 
+- Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
+- Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
 
 ## Ouvrage général 
 ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
