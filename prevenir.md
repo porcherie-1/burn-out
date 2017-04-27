@@ -1,5 +1,7 @@
 # Prévenir
 
+## Propositions du rapport de l'Assemblée nationale 
+
 ## Organisation du travail 
 - Entreprise libérée, nouveau management 
 - Nouvelle formation spécifique ? 
