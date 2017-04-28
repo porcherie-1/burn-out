@@ -24,6 +24,8 @@ Sociologue
 
 ## Max Masse
 
+## Loïc Touranchet
+
 Cabinet
 Rapport 
 
