@@ -1,5 +1,5 @@
 # Reconnaître une maladie
-
+Le burn-out, un nouveau diagnostic ou une évolution linguistique ? 
 
 ## Burn-out, trouble spécifique dans la souffrance au travail ? 
 par rapport aux RPS, "bout du bout du bout de la souffrance", terminologie a du sens ou non
