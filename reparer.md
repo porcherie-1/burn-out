@@ -32,12 +32,17 @@ Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’ob
 
 ```markdown
 
-Benchmark et ranking
+**Benchmark et ranking**
 
 Le benchmark est une technique de gestion basé sur la comparaison. 
-Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.
+Il existe plusieurs types de benchmark, notamment le benchmark interne 
+qui vise donc à comparer différents services au sein d’une entreprise. 
+Cette méthode est également parfois utilisée pour comparer les performances 
+individuelles des salariés.
 
-Le ranking, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
+Le ranking, comme son nom l’indique est une méthode managériale qui sert 
+également à évaluer les salariés. Avec le ranking, les entreprises classent 
+les salariés en fonction de leurs performances et de leur potentiel.
 
 ```
 
@@ -62,6 +67,6 @@ En outre, l’entreprise est également tenue à une obligation de sécurité de
 Depuis quelques temps, on observe un changement de position de la Cour de Cassation qui était auparavant plus ouverte aux revendications salariales et syndicales. En effet, la Cour de Cassation remet en cause la définition d’obligation de sécurité de résultat. Désormais l’obligation de sécurité de moyen suffit. Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail.
 
 
-
+CE N'EST PAS FINI
 
 Transition : 3 types de prévention. Réparation <=> prévention tertiaire: Après un pb, on répare et on prévient... 
