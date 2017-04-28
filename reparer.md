@@ -34,9 +34,11 @@ Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’ob
 
 Benchmark et ranking
 
-Le benchmark est une technique de gestion basé sur la comparaison. Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.
+Le benchmark est une technique de gestion basé sur la comparaison. 
+Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.
 
 Le ranking, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
+
 ```
 
 
