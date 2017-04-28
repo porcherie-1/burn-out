@@ -26,7 +26,7 @@ Porter le cas de burn-out en justice est une manière de réparer en imputant ou
 
 ### Les syndicats et la justice pour remettre en cause l’entreprise
 
-Selon Loïc Touranchet, avocat au cabinet Actance, les logiques d’entreprises ont évolué et montrent une contradiction. D’une part à court terme, l’entreprise obéit à des logiques de profit, et d’autre part à long terme, l’entreprise recherche une image positive et pérenne de son organisation. Ainsi, aller en justice permet aux syndicats de remettre en cause l’image de marque de l’entreprise. 
+Selon Loïc Touranchet <a href="https://controverses.github.io/burn-out/acteurs#loc-touranchet" target="_blank">Loïc Touranchet</a>, avocat au cabinet Actance, les logiques d’entreprises ont évolué et montrent une contradiction. D’une part à court terme, l’entreprise obéit à des logiques de profit, et d’autre part à long terme, l’entreprise recherche une image positive et pérenne de son organisation. Ainsi, aller en justice permet aux syndicats de remettre en cause l’image de marque de l’entreprise. 
 
 Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’objectiver les performances. Parmi-elles, l’open space, ou encore le benchmark ou le ranking, qui font l’objet des critiques des syndicats et ont été invoqué dans des procès portant sur les risques psycho-sociaux.
 
@@ -37,12 +37,13 @@ Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’ob
 Le benchmark est une technique de gestion basé sur la comparaison. 
 Il existe plusieurs types de benchmark, notamment le benchmark interne 
 qui vise donc à comparer différents services au sein d’une entreprise. 
-Cette méthode est également parfois utilisée pour comparer les performances 
-individuelles des salariés.
+Cette méthode est également parfois utilisée pour comparer les 
+performances individuelles des salariés.
 
 Le ranking, comme son nom l’indique est une méthode managériale qui sert 
-également à évaluer les salariés. Avec le ranking, les entreprises classent 
-les salariés en fonction de leurs performances et de leur potentiel.
+également à évaluer les salariés. Avec le ranking, les entreprises 
+classent les salariés en fonction de leurs performances et de leur 
+potentiel.
 
 ```
 
