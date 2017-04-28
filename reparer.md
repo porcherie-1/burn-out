@@ -40,7 +40,8 @@ Cette méthode est également parfois utilisée pour comparer les performances i
 
 Le ranking, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
 </div>
-</div>
+</div>                                                                                                                               
+
 
 
 Ces techniques de comparaison entre salariés, et de mise en concurrence de ceux-ci sont vivement critiquées et apparaissent comme des facteurs pouvant entraîner un burn-out.
