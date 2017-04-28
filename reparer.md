@@ -30,12 +30,14 @@ Selon Loïc Touranchet, avocat au cabinet Actance, les logiques d’entreprises 
 
 Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’objectiver les performances. Parmi-elles, l’open space, ou encore le benchmark ou le ranking, qui font l’objet des critiques des syndicats et ont été invoqué dans des procès portant sur les risques psycho-sociaux.
 
+```markdown
 
 Benchmark et ranking
 
 Le benchmark est une technique de gestion basé sur la comparaison. Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.
 
 Le ranking, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
+```
 
 
 Ces techniques de comparaison entre salariés, et de mise en concurrence de ceux-ci sont vivement critiquées et apparaissent comme des facteurs pouvant entraîner un burn-out.
