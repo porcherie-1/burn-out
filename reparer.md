@@ -30,7 +30,16 @@ Selon <a href="https://controverses.github.io/burn-out/acteurs#loc-touranchet" t
 
 Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’objectiver les performances. Parmi-elles, l’open space, ou encore le benchmark ou le ranking, qui font l’objet des critiques des syndicats et ont été invoqué dans des procès portant sur les risques psycho-sociaux.
 
-```markdown
+<div style="padding:5px; background-color:#9ba0ee; border:2px solid #656ab0; -moz-border-radius:9px; -khtml-border-radius:9px; -webkit-border-radius:9px; border-radius:9px;">
+<div style="font-size: 3em; float: left; width: 40px; text-align: center; margin-right: 5px; height: 20px; padding:3px;"/div>
+<strong>Benchmark et ranking</strong>: Le benchmark est une technique de gestion basé sur la comparaison. Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. 
+Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.
+
+Le ranking, comme son nom l’indique est une méthode managériale qui sert 
+également à évaluer les salariés. Avec le ranking, les entreprises 
+classent les salariés en fonction de leurs performances et de leur 
+potentiel.
+</div>
 
 **Benchmark et ranking**
 
@@ -45,7 +54,6 @@ Le ranking, comme son nom l’indique est une méthode managériale qui sert
 classent les salariés en fonction de leurs performances et de leur 
 potentiel.
 
-```
 
 
 Ces techniques de comparaison entre salariés, et de mise en concurrence de ceux-ci sont vivement critiquées et apparaissent comme des facteurs pouvant entraîner un burn-out.
