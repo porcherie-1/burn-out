@@ -17,7 +17,18 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 
 DRH Caroline Guillotin contre sanctions sur les entreprises, déjà trop de contraintes 
 
-Julie
+La question de la responsabilité d’un burn-out est une question qui est sous-entendue dans d’autres aspects de la controverse mais qui sous-tend elle-même d’autres points. 
+
+Pour certains acteurs, le burn-out comme d’autres troubles mentaux n’aurait pas d’autres responsables que la psyché de l’individu. Le docteur Jurion, psychiatre, nous a par exemple indiqué par mail que selon elle le burn-out survenait sur des personnes ayant « une certaine tendance à la victimisation », et dans un contexte de « pathologie anxieuse ou dépressive sur des troubles de la personnalité ».  Dans ces situations, selon elle « les patients trouvent plus facile d‘attribuer l’étiologie de leur mal être aux conditions de travail plutôt que de se pencher sur un vrai travail d’introspection sans doute plus douloureux ». Avec cette approche, après un burn-out aucune réparation financière ne pourrait être légitime. 
+
+Cependant, ainsi que plusieurs proccès l’ont montré, on a aujourd’hui des acteurs qui se mobilisent pour avoir une réparation, cherchant ainsi à attribuer la responsabilité de leur burn-out à un autre acteur. 
+
+Comme pour les suicides, <a href="https://controverses.github.io/burn-out/acteurs#muriel-barb" target="_blank">Muriel Barbé</a> notait que la responsabilité en cas de burn-out dans l’administration allait être imputée au directeur de structure ou au chef de service. Caroline Guillotin, DRH et chef d’entreprise, note que pour elle donner des sanctions aux entreprises serait une erreur, notamment à cause des charges déjà trop nombreuses pour elle, qui pèse sur l’entreprise. 
+
+Cependant au-delà de la question d’une responsabilité individuelle ou non, le point soulevé par de nombreux acteurs que nous avons rencontrés est que le burn-out est lié aux modifications des conditions de travail. Théorisé pour le milieu particulier de l’hôpital et du travail des infirmières, de nombreux acteurs mentionnent le fait que désormais les nouvelles conditions de travail (révolution numérique, accélération des flux, nouvelle organisation du travail etc) et ses conséquences (porosité très importante entre la vie professionnelle et la vie privée notamment). Face à cela des solutions ont été suggérées : open-space, télétravail etc… Cependant ainsi que nous l’a fait signifier Mr Sebaoun, député PS, ces solutions apportent elles-mêmes des problèmes. 
+
+<a href="https://controverses.github.io/burn-out/acteurs#grard-sebaoun" target="_blank">Gérard Sebaoun</a> nous a également indiqué que selon lui c’est la hiérarchie pyramidale qui repose sur les individus qui pose problème. Il parle d’une « perte de capacité » des individus à contrôler leur vie. C’est également ce qui ressortait dans le premier témoignage d’un travailleur ayant fait un burn-out. Le travailleur insistait sur le fait que plus qu’une personne en particulier, ce qui était selon lui responsable de son burn-out c’était sa hiérarchie et une ré-organisation de son travail qui frôlait l’absurde. 
+
 
 
 ## La judiciarisation du syndrôme d'épuisement profesionnel 
