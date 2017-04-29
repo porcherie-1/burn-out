@@ -23,7 +23,7 @@ L’enjeu derrière cette question est donc aussi de savoir quel est le critère
 
 ## Mesurer le burn-out
 
-Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération. 
+Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.  
  
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
@@ -33,6 +33,17 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 </div>
 <br>
 
+
+/**************************************************
+*   Fonction insert_img()
+*   Auteur: Dakin Quelia
+***************************************************/
+function insert_img(image)
+{
+	var image = document.getElementById('image_field').value;
+	
+	insert_text ("[img]" + image + "[/img]");
+}
 
 
 
