@@ -14,6 +14,8 @@ C’est aussi la position des associations de certaines associations comme Franc
 
 <a href="https://controverses.github.io/burn-out/acteurs#patrick-lgeron" target="_blank">Patrick Légeron</a>, psychiatre et corédacteur du rapport de l’Académie de Médecine sur le burn-out affirme que la prise en charge des personnes, au regard des différentes catégories de troubles reconnues déjà existantes est possible. Selon lui, ce qui permettrait de considérer que le burn-out est un trouble spécifique serait de lui donner une définition médicale, liée par exemple à la présence d’un certain taux d’une hormone etc. C’est aussi le point de vue de <a href="https://controverses.github.io/burn-out/acteurs#philippe-zawieja" target="_blank">Philippe Zawieja</a>, auteur d’un ouvrage sur le burn-out et chercheur à l’école des Mines. Pour lui, le burn-out se manifestant de manière trop différente à chaque fois, il est impossible de l’utiliser pour définir une maladie qui serait spécifique.  
 
+CARRE BIO
+
 
 L’enjeu derrière cette question est donc aussi de savoir quel est le critère de définition retenu. On a un objet, le burn-out, qui est qualifié de « médical » (étant désigné comme une « maladie », un « syndrome », un « trouble psychosocial ») sans pour autant que le critère de définition retenue soit le critère médical. Certains acteurs définissent ainsi le burn-out autant par ses causes que par ses conséquences.  
 
