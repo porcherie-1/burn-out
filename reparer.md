@@ -62,8 +62,6 @@ D’autre part, le taux d’incapacité de 25% pour qu’un trouble soit reconnu
 
 <a href="https://controverses.github.io/burn-out/acteurs#loc-lerouge" target="_blank">Loïc Lerouge</a>, chercheur au CNRS, parle aussi du syndrome d’épuisement professionnel dans la fonction publique. Beaucoup de fonctionnaires sont touchés (enseignants, infirmières…). Dans ce domaine, les institutions commencent à prendre l’épuisement professionnel en compte. L’avis du Conseil d’Etat du 12 décembre 2014 ouvre la voie à la reconnaissance de l’épuisement professionnel dans la fonction publique. 
 
-Le 12 décembre 2014, le Conseil d’Etat annule la décision du Tribunal Administratif de Nîmes. Celui-ci avait décidé de refuser la prise en compte d’un malaise d’un agent sur la voie publique en tant qu’accident de service et de refuser l’imputabilité de ce malaise au service concerné. Le Conseil d’Etat demande alors au préfet du Gard de reconnaître cette imputabilité.
-
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 Le 12 décembre 2014, le Conseil d’Etat annule la décision du Tribunal Administratif de Nîmes. Celui-ci avait décidé de refuser la prise en compte d’un malaise d’un agent sur la voie publique en tant qu’accident de service et de refuser l’imputabilité de ce malaise au service concerné. Le Conseil d’Etat demande alors au préfet du Gard de reconnaître cette imputabilité.
