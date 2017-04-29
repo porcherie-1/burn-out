@@ -6,9 +6,6 @@ Je pense que c'est plus simple si on met tous les acteurs sur la même page et d
 
 ## Marc Loriol
 
-
-
-
 ## Jean-Paul Vouiller
 
 ## Gérard Sebaoun
@@ -23,59 +20,9 @@ Je pense que c'est plus simple si on met tous les acteurs sur la même page et d
 
 ## Loïc Lerouge
 
-Cabinet
-Rapport 
+## Philippe Zawieja
 
-a
-
-z
-
-e
-
-r
-
-t
-
-y
-
-u
-
-i
-
-o
-
-p
-
-q
-
-s
-
-d
-
-f
-
-g
-
-h
-
-j
-
-k
-
-l
-
-m
-
-w
-
-x
-
-c
-
-v
-
-n
-
+## Patrick Légeron
 
 ## Témoignages anonymisés (Sébastien Lautié)
 
