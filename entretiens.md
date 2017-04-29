@@ -6,6 +6,8 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ## Entretien avec Gérard Sebaoun 
 
+<img src="./images/Entretien 2 - Gérard Sebaoun.pdf">
+
 ## Entretien téléphonique avec Caroline Guilottin 
 
 ## 
