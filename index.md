@@ -1,13 +1,11 @@
 # Accueil
+[Accroche du feu qqch n'importe quoi]
 
-## Pourquoi étudier le burnout?
+## Comment aborder la souffrance au travail: l'avènement du burn-out 
 
-## Historique
+## Une conceptualisation progressive et inachevée
 
-## Maslach
-
-# EVA yo
-
+## Pourquoi étudier le burn-out : Notre projet 
 
 [Prévenir](https://controverses.github.io/burn-out/prevenir) 
 
