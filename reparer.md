@@ -33,13 +33,10 @@ Les entreprises utilisent de nouveaux moyens d’organisation dans le but d’ob
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-<strong>Benchmark et ranking:</strong><br><I>Le benchmark</I> est une technique de gestion basé sur la comparaison. Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. YYOOOOOOOOOO
-Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.<br><I>Le ranking</I>, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
+<strong>Benchmark et ranking:</strong><br><I>Le benchmark</I> est une technique de gestion basé sur la comparaison. Il existe plusieurs types de benchmark, notamment le benchmark interne qui vise donc à comparer différents services au sein d’une entreprise. Cette méthode est également parfois utilisée pour comparer les performances individuelles des salariés.<br><I>Le ranking</I>, comme son nom l’indique est une méthode managériale qui sert également à évaluer les salariés. Avec le ranking, les entreprises classent les salariés en fonction de leurs performances et de leur potentiel.
 </div>
-</div>                                                                                                                               
-
-
-
+</div>
+<br>
 Ces techniques de comparaison entre salariés, et de mise en concurrence de ceux-ci sont vivement critiquées et apparaissent comme des facteurs pouvant entraîner un burn-out.
 
 En 2012, le syndicat SUD BPCE demande l’arrêt de ces pratiques à la Caisse d’Épargne du Rhône Alpes causant selon le syndicat un stress permanent et des risques psycho-sociaux. Le Tribunal de Grande Instance de Lyon prononce son jugement le 4 septembre 2012 et demande à la Caisse d’Épargne de ne plus utiliser le benchmark. La banque fait appel et la Cour d’appel de Lyon change d’avis en 2014 en revenant en partie sur la première décision. En effet, la Caisse d’Épargne aurait modifié son utilisation du logiciel depuis 2012 rendant caduque la demande de suppression du syndicat. Cependant, la Cour condamne la banque à reverser 15 000 euros de dommages-intérêts au syndicat SUD BPCE pour la réparation de la mauvaise utilisation du benchmark entre 2007 et 2012 ayant entrainé « une souffrance collective au travail » du côté des salariés. Ici, le syndicat a donc en partie gagné contre les nouvelles méthodes d’organisation du travail.
