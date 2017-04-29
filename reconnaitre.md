@@ -46,7 +46,7 @@ function insert_img(image)
 }
 
 
-![image]
+![image]https://github.com/controverses/burn-out/Captured’écran2017-04-29à22.31.22.png
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
