@@ -20,7 +20,7 @@ DRH Caroline Guillotin contre sanctions sur les entreprises, déjà trop de cont
 Julie
 
 
-## Procès exemple (cf. Loic Lerouge) 
+## La judiciarisation du syndrôme d'épuisement profesionnel 
 
 Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action de directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.
 
@@ -47,16 +47,20 @@ En 2012, le syndicat SUD BPCE demande l’arrêt de ces pratiques à la Caisse d
 Les jugements sur les RPS et la souffrance au travail pose la question du rôle du juge.
 En effet, imputer un cas de RPS à l’organisation de l’entreprise et du travail au sein de cette entreprise peut être vu comme de l’ingérence du juge dans l’entreprise. Cela ne respecte pas le droit constitutionnel qu’est la liberté d’entreprendre. Le juge n’a pas à ingérer dans l’organisation de l’entreprise mais peut seulement la contrôler et rectifier d’éventuels écueils. D’autre part, le juge doit être le garant des droits civils des employés. Toutefois, s’il n’y a pas de fondement légal à la décision du juge, cette décision apparaît comme une tentative d’ingérence. Ainsi, selon Loïc Touranchet, c’est pour cela que la proposition de loi pour la reconnaissance du syndrome d’épuisement professionnel (burn-out) apparaît cruciale pour que le burn-out du salarié puisse être imputé à l’employeur.
 
-
-En outre, l’entreprise est également tenue à une obligation de sécurité de résultat dans le code du travail, selon l’article article L.4121-1. Ainsi le droit du travailleur est associé à un devoir de l’employeur vis-à-vis de l’employé.
-
-> Article L4121-1  
-> L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.
+Depuis quelques temps, on observe un changement de position de la Cour de Cassation qui était auparavant plus ouverte aux revendications salariales et syndicales. En effet, avec l’arrêt Air France du 25 novembre 2015, l’obligation de sécurité de résultat est devenue une obligation de sécurité de moyens, comme le rappelle l’article L.4121 du code du travail. Le droit du travailleur est associé à un devoir de l’employeur vis-à-vis de l’employé.
 
 
-Depuis quelques temps, on observe un changement de position de la Cour de Cassation qui était auparavant plus ouverte aux revendications salariales et syndicales. En effet, la Cour de Cassation remet en cause la définition d’obligation de sécurité de résultat. Désormais l’obligation de sécurité de moyen suffit. Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail.
+>Article L4121-1  
+>L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.
+
+Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail. 
 
 
-CE N'EST PAS FINI
+Le burn-out se situe à la frontière de l’accident du travail et de la maladie. L’accident du travail est reconnu dans le code de la sécurité sociale « quelle qu’en soit la cause ». La législation n’a pas beaucoup évolué sur les accidents du travail, au contraire de la jurisprudence. L’accident du travail implique un critère de soudaineté, qui paraît souvent incompatible avec les chocs psychiques.
+D’autre part, le taux d’incapacité de 25% pour qu’un trouble soit reconnu comme maladie professionnelle hors tableau paraît difficile à franchir et par conséquent la reconnaissance en tant que maladie professionnelle de certains troubles est longue et difficile à obtenir. Une dépression correspond souvent à un taux d’incapacité entre 10 et 15%.
+
+
+
+
 
 Transition : 3 types de prévention. Réparation <=> prévention tertiaire: Après un pb, on répare et on prévient... 
