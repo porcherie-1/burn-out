@@ -4,25 +4,25 @@
 
 Je pense que c'est plus simple si on met tous les acteurs sur la même page et donc à chaque fois on renvoie vers cette page, faire un truc par acteur risque d'être compliqué, surtout long
 
-## Marc Loriol
-
-## Jean-Paul Vouiller
-
-## Gérard Sebaoun
-
-## Muriel Barbé
-
-## Technologia
-
-## Max Masse
-
-## Loïc Touranchet
-
-## Loïc Lerouge
-
-## Philippe Zawieja
+## Muriel Barbé 
 
 ## Patrick Légeron
 
-## Témoignages anonymisés (Sébastien Lautié)
+## Loïc Lerouge
+
+## Marc Loriol
+
+## Max Masse
+
+## Gérard Sebaoun
+
+## Technologia
+
+## Loïc Touranchet
+
+## Jean-Paul Vouiller
+
+## Philippe Zawieja
+
+## Témoignages anonymisés
 
