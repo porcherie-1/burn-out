@@ -28,7 +28,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-<strong>Conclusion du rapport de Technologia:</strong><br>  L’état des lieux quantitatif révèle dans un premier temps une combinaison de travail excessif et compulsif chez 12,6% des sondés, soit près <I>3,2 millions d’actifs</I> ” occupés si l’on extrapole le chiffre au périmètre national”
+<strong>Conclusion du rapport de Technologia:</strong><br>  "L’état des lieux quantitatif révèle dans un premier temps une combinaison de travail excessif et compulsif chez 12,6% des sondés, soit près <I>3,2 millions d’actifs</I> occupés si l’on extrapole le chiffre au périmètre national.”
 </div>
 </div>
 <br>
