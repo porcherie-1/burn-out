@@ -36,7 +36,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 
 <div id="fich1"> 
-<object width="720" height="400" data="https://controverses.github.io/burn-out/Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
+<object width="600" height="400" data="https://controverses.github.io/burn-out/Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
 </div>
 
 
