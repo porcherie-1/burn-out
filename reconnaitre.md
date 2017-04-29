@@ -28,7 +28,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-<strong>Conclusion du rapport de Technologia:</strong><br> "Parmi l’ensemble des actifs occupés, <I>3,2 millions</I> seraient en situation de travail excessif et compulsif, présentant un surengagement pathologique et connaissant un risque élevé de développer un burn out.
+<strong>Conclusion du rapport de Technologia:</strong><br> "Parmi l’ensemble des actifs occupés, <I>3,2 millions</I> seraient en situation de travail excessif et compulsif, présentant un surengagement pathologique et connaissant un risque élevé de développer un burn out." 
 </div>
 </div>
 <br>
