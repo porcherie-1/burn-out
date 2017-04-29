@@ -40,10 +40,6 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 </div>
 
 
- 
-<div id="fich1"> 
-<object data="Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
-</div>
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
