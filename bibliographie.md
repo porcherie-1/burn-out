@@ -31,8 +31,10 @@ http://www.20minutes.fr/economie/1705363-20151008-burn-out-france-avoir-air-heur
 - Julien Massillon, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
 http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet-a-fait-un-burn-out-apres-l-echec-de-son-film-blood-ties-620711
 - Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
-- Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016  tre a
+- Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016 
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
+- "Plus de 3 millions de Français au bord du burn-out", _Le Monde_, 22 janvier 2014 
+http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais-au-bord-du-burn-out_4352438_3234.html
 
 ## Etudes sur le burn-out 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
