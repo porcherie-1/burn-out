@@ -46,6 +46,7 @@ function insert_img(image)
 }
 
 
+![image]
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
