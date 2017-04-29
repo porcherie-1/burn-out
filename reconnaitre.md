@@ -34,19 +34,16 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 <br>
 
 
-/**************************************************
-*   Fonction insert_img()
-*   Auteur: Dakin Quelia
-***************************************************/
-function insert_img(image)
-{
-	var image = document.getElementById('image_field').value;
-	
-	insert_text ("[img]" + image + "[/img]");
-}
+XHTML : 
+<div id="fich1"> 
+<object data="https://controverses.github.io/burn-out/Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
+</div>
 
 
-![image]burn-out/Capture d’écran 2017-04-29 à 22.31.22.png 
+XHTML : 
+<div id="fich1"> 
+<object data="Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
+</div>
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
