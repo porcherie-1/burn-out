@@ -40,6 +40,7 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
 - Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
 
-## Ouvrage général 
+## Ouvrages généraux 
 ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
+DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
 
