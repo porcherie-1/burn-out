@@ -8,12 +8,12 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ## Entretien avec Gérard Sebaoun (4 avril 2017) 
 
- <A HREF="GerardSebaoun.pdf">Gérard Sebaoun</A> 
+ <A HREF="GerardSebaoun.pdf">Gérard Sebaoun target="_blank"</A> 
 
 
 ## Entretien téléphonique avec Caroline Guilltin (14 avril 2017) 
 
-## Table-ronde sur le burn-out, organisée par les sympathisants de Benoît Hamon (18 avril 2017) 
+## Table-ronde sur le burn-out, organisé par les sympathisants de Benoît Hamon (18 avril 2017) 
 
 ## Entretien avec Muriel Barbé (26 avril 2017) 
 
