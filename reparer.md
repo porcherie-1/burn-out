@@ -22,7 +22,7 @@ Julie
 
 ## La judiciarisation du syndrôme d'épuisement profesionnel 
 
-<p style="text-align:justify";>Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action de directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.</p>
+<p align="justify">Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action de directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.</p>
 
 ### Les syndicats et la justice pour remettre en cause l’entreprise
 
