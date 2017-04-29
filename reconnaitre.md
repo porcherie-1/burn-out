@@ -34,13 +34,13 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 <br>
 
 
-XHTML : 
+
 <div id="fich1"> 
 <object data="https://controverses.github.io/burn-out/Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
 </div>
 
 
-XHTML : 
+ 
 <div id="fich1"> 
 <object data="Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
 </div>
