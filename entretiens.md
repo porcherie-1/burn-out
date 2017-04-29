@@ -8,8 +8,9 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ## Entretien avec Gérard Sebaoun (4 avril 2017) 
 
- <A HREF="GerardSebaoun.pdf">Gérard Sebaoun target="_blank"</A> 
+ <A HREF="GerardSebaoun.pdf" target="_blank">Gérard Sebaoun</A> 
 
+<a href="https://controverses.github.io/burn-out/acteurs#jean-paul-vouiller" target="_blank">JPV</a>
 
 ## Entretien téléphonique avec Caroline Guilltin (14 avril 2017) 
 
