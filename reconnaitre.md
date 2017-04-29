@@ -22,6 +22,20 @@ L’enjeu derrière cette question est donc aussi de savoir quel est le critère
 
 
 ## Mesurer le burn-out
+
+	Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération. Le rapport final donne la conclusion suivante : 
+ 
+
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<strong>Conclusion du rapport de Technologia:</strong><br><I>  L’état des lieux quantitatif révèle dans un premier temps une combinaison de travail excessif et compulsif chez 12,6% des sondés, soit près <I>3,2 millions d’actifs</I> ” occupés si l’on extrapole le chiffre au périmètre national”
+</div>
+</div>
+<br> 
+
+
+
+
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
 Vs : cf l'article d'Eva 
