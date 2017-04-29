@@ -6,12 +6,7 @@ Je pense que c'est plus simple si on met tous les acteurs sur la même page et d
 
 ## Marc Loriol
 
-```markdown
 
-Marc Loriol
-Sociologue
-
-```
 
 
 ## Jean-Paul Vouiller
@@ -25,6 +20,8 @@ Sociologue
 ## Max Masse
 
 ## Loïc Touranchet
+
+## Loïc Lerouge
 
 Cabinet
 Rapport 
