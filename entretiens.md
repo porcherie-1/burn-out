@@ -8,12 +8,8 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ## Entretien avec Gérard Sebaoun (4 avril 2017) 
 
-<iframe src="Entretien 2 - Gérard Sebaoun.pdf" width="800" height="600"></iframe>
  <A HREF="GerardSebaoun.pdf">Gérard Sebaoun</A> 
- 
- <A HREF="">https://github.com/controverses/burn-out/blob/master/GerardSebaoun.pdf</A> 
- 
- 
+
 
 ## Entretien téléphonique avec Caroline Guilltin (14 avril 2017) 
 
