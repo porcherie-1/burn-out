@@ -46,8 +46,9 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 - DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
 
 ## Burn-out et syndicats 
-- "Comment développer l'écoute individuelle, active et efficace de la souffrance au sein des entreprises ?", _Miroir social_, 26 février 2016 
-http://www.miroirsocial.com/actualite/13023/comment-developper-l-ecoute-individuelle-active-et-efficace-de-la-souffrance-au-sein-des-entreprises 
 - "Les délégués sociaux au Québec : l'émergence d'un nouveau rôle pour l'acteur syndical ?", _Délégué Social en Entreprise (DSE)_, 17 février 2016 
 http://www.dse.cftchpe.fr/2017/02/17/les-delegues-sociaux-au-quebec-lemergence-dun-nouveau-role-pour-lacteur-syndical/ 
-
+- "Comment développer l'écoute individuelle, active et efficace de la souffrance au sein des entreprises ?", _Miroir Social_, 26 février 2016 
+http://www.miroirsocial.com/actualite/13023/comment-developper-l-ecoute-individuelle-active-et-efficace-de-la-souffrance-au-sein-des-entreprises 
+- "Accompagnement de proximité : déjà 80 délégués sociaux formés à la méthode québecoise", _Miroir Social_, 18 mars 2017 
+ http://www.miroirsocial.com/actualite/14399/accompagnement-de-proximite-deja-80-delegues-sociaux-formes-a-la-methode-quebecoise 
