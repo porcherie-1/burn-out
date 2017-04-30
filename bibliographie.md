@@ -21,7 +21,8 @@ http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487
 - Florence Rosier, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
 - "Epuisement professionnel et dépression peuvent être distingués par la salive et le sang", _Psychomédia_, 23 février 2011
 http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues-par-des-mesures-biologiques 
-`
+- "De simples analyses de salive et de sang pourraient détecter précocement l'épuisement professionnel", _Techno-science.net_, 23 mars 2011  
+http://www.techno-science.net/?onglet=news&news=8760 
 
 ## Dossier de presse 
 - Pub Pepsi sur le Burn-out (France - 2011)
@@ -43,4 +44,10 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 ## Ouvrages généraux 
 - ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
 - DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
+
+## Burn-out et syndicats 
+- "Comment développer l'écoute individuelle, active et efficace de la souffrance au sein des entreprises ?", _Miroir social_, 26 février 2016 
+http://www.miroirsocial.com/actualite/13023/comment-developper-l-ecoute-individuelle-active-et-efficace-de-la-souffrance-au-sein-des-entreprises 
+- "Les délégués sociaux au Québec : l'émergence d'un nouveau rôle pour l'acteur syndical ?", _Délégué Social en Entreprise (DSE)_, 17 février 2016 
+http://www.dse.cftchpe.fr/2017/02/17/les-delegues-sociaux-au-quebec-lemergence-dun-nouveau-role-pour-lacteur-syndical/ 
 
