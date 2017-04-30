@@ -44,6 +44,8 @@ http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
 - "Plus de 3 millions de Français au bord du burn-out", _Le Monde_, 22 janvier 2014 
 http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais-au-bord-du-burn-out_4352438_3234.html
+- "Surmenage : c'est dûr, dûr de travailler", _L'Observatoire de la santé_, 23 février 2017 
+http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 
 ## Etudes sur le burn-out 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
