@@ -39,6 +39,10 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 </div>
 <br>
 
+La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de personnes qui pourraient développer un burn-out. Or, ce chiffre a été très tôt repris par les médias qui ont souvent fait l'erreur d'assimiler le nombre de personnes "à risque" au nombre de personnes réellement en burn-out. Par exemple, nous avons trouvé dans le journal <a href="http://www.kernews.com/burn-out-pourquoi-la-france-est-elle-la-plus-touchee-par-la-maladie-du-siecle/3535/" target="_blank">Ker News</a>, cette affirmation, confirmée par l'interviewé, le docteur François Baumann : 
+
+<img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+
 
 
 <img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
@@ -46,7 +50,6 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 
 
-<img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
