@@ -10,7 +10,7 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ### Entretien avec Gérard Sebaoun (4 avril 2017) 
 
- <A HREF="GerardSebaoun.pdf" target="_blank">Gérard Sebaoun</A> 
+ <A HREF="entretien2.pdf" target="_blank">Gérard Sebaoun</A> 
 
 ### Entretien téléphonique avec Caroline Guilltin (14 avril 2017) 
 
