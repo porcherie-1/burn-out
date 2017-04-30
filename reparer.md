@@ -1,21 +1,33 @@
 # Réparer
 
 
-## Maladie Professionnelle
-- 3 voies de reconnaissance 
+## Reconnaissance comme maladie professionnelle
+exemple de ceux qui demandent ça 
+système de reconnaissance maladie professionnelle accidents du travail
+encadré procédure complémentaire
+insuffisances des catégories actuelles et apports d'un ajout aux tableaux
+préciser les autres pays européens non plus 
+Peut-on considérer comme une maladie professionnelle ? Obstacles àla reconnaissance
+3 voies de reconnaissance 
 
 Eva
 
 - Accident du travail (JPV)
 Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 
-## A qui attribuer la reponsabilité d'un burn-out ?  
+## Sanctions, qui paie ? Reponsabilité 
+- Entreprise ? (organisation) 
+- Patronat/chefs de service 
+- Fragilité/caractéristiques de l'individu
+- Sécurité Sociale ? 
+
+DRH Caroline Guillotin contre sanctions sur les entreprises, déjà trop de contraintes 
 
 La question de la responsabilité d’un burn-out est une question qui est sous-entendue dans d’autres aspects de la controverse mais qui sous-tend elle-même d’autres points. 
 
 Pour certains acteurs, le burn-out comme d’autres troubles mentaux n’aurait pas d’autres responsables que la psyché de l’individu. Le docteur Jurion, psychiatre, nous a par exemple indiqué par mail que selon elle le burn-out survenait sur des personnes ayant « une certaine tendance à la victimisation », et dans un contexte de « pathologie anxieuse ou dépressive sur des troubles de la personnalité ».  Dans ces situations, selon elle « les patients trouvent plus facile d‘attribuer l’étiologie de leur mal être aux conditions de travail plutôt que de se pencher sur un vrai travail d’introspection sans doute plus douloureux ». Avec cette approche, après un burn-out aucune réparation financière ne pourrait être légitime. 
 
-Cependant, ainsi que plusieurs proccès l’ont montré, on a aujourd’hui des acteurs qui se mobilisent pour avoir une réparation, cherchant ainsi à attribuer la responsabilité de leur burn-out à un autre acteur. La reconnaissance du burn-out comme maladie professionnelle engage la responsabilité de l’employeur, qui a la charge de la réparation. Or si l’entreprise peut avoir sa part de responsabilité parmi les facteurs déclenchant le burn-out d’un salarié, les causes sont multiples et il est ainsi délicat de justifier d’un lien direct à l’activité professionnelle. A noter ici que l’aspect financier des indemnisations n’est sans doute pas étranger aux réticences à la reconnaissance en maladie professionnelle: c’est la branche AT/MP (accident du travail/maladie professionnelle) de la sécurité sociale qui est en charge de la réparation, et elle est dans sa quasi-totalité financée par les cotisations des entreprises. De plus, le Code du travail impose à l’employeur de prendre les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Réaffirmée par jurisprudence, cet obligation de sécurité de résultat s’impose surtout pour les maladies professionnelles. 
+Cependant, ainsi que plusieurs proccès l’ont montré, on a aujourd’hui des acteurs qui se mobilisent pour avoir une réparation, cherchant ainsi à attribuer la responsabilité de leur burn-out à un autre acteur. 
 
 Comme pour les suicides, <a href="https://controverses.github.io/burn-out/acteurs#muriel-barb" target="_blank">Muriel Barbé</a> notait que la responsabilité en cas de burn-out dans l’administration allait être imputée au directeur de structure ou au chef de service. Caroline Guillotin, DRH et chef d’entreprise, note que pour elle donner des sanctions aux entreprises serait une erreur, notamment à cause des charges déjà trop nombreuses pour elle, qui pèse sur l’entreprise. 
 
