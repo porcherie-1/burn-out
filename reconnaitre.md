@@ -29,7 +29,7 @@ L’enjeu derrière cette question est donc aussi de savoir quel est le critère
 
 ## Mesurer le burn-out
 
-Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.  
+Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out en France. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.  
  
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
@@ -43,9 +43,15 @@ La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de per
 
 <img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
+D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en souffrance psychique liée au travail, dont 7% (ce qui équivaut à 30 000) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations possibles. 
+
+>"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre 5% et 20%". 
+
+L'Académie de médecine estime quant à elle que les données ne sont pas suffisamment précises pour déterminer combien de personnes sont touchées par le burn-out aujourd'hui. 
+
+>Les données épidémiologiques sur le burn-out sont à ce jour très insuffisantes, tant dans le domaine descriptif qu'analytique. Cette défaillance est la conséquence logique des difficultés à poser avec précision les limites du burn-out (rapport de l'Académie de médecine sur le burn-out). 
 
 
-<img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
 
 
@@ -55,13 +61,13 @@ Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
 Vs : cf l'article d'Eva + l'article burn out et syndrome des yuppies qui dit qu'en gros c'est juste une nouvelle invention comme la neurasthénie qui vise juste à éviter la psychologisation de la souffrance et éviter d'accuser les gens
 
-Eleonore 
  
 ## Construction sociale du burn-out 
 Loriol, performativité de la notion 
 auto-diagnostic <=> psychiatrisation, Légeron 
 (sorte de transition : cause = psychologie et/ou environnement du travail)
 
-Eleonore
+<img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+
 
 
