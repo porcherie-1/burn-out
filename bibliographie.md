@@ -33,8 +33,8 @@ http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues
 http://www.techno-science.net/?onglet=news&news=8760 
 
 ## Dossier de presse 
-- Pub Pepsi sur le Burn-out (France - 2011)
-http://www.culturepub.fr/videos/pepsi-max-burnout/
+- Rosanne Aries, "Une avancée pour les agriculteurs en burn-out", _La France Agricole_, 14 février 2017 
+http://www.lafranceagricole.fr/actualites/gestion-et-droit/aide-au-repit-une-avancee-pour-les-agriculteurs-en-burn-out-1,1,564292833.html
 - Céline Boff, "Burn-out : En France, avoir l'air heureux au travail est suspect", _20 minutes_, octobre 2015
 http://www.20minutes.fr/economie/1705363-20151008-burn-out-france-avoir-air-heureux-travail-suspect 
 - Julien Massillon, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
@@ -46,6 +46,8 @@ http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-
 http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais-au-bord-du-burn-out_4352438_3234.html
 - "Surmenage : c'est dûr, dûr de travailler", _L'Observatoire de la santé_, 23 février 2017 
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
+- Pub Pepsi sur le Burn-out (France - 2011)
+http://www.culturepub.fr/videos/pepsi-max-burnout/
 
 ## Etudes sur le burn-out 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
