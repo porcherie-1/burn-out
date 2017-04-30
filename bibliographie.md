@@ -51,6 +51,11 @@ http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet
 - Philippe Mesmer, "Au Japon, un plan d'action contre la 'mort par surmenage'", _Le Monde_, 13 février 2017 
 http://www.lemonde.fr/m-perso/article/2017/02/13/au-japon-un-plan-d-action-contre-la-mort-par-surmenage_5078756_4497916.html 
 - Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
+- Bernard Morat, "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", _Miroir Social_, 15 avril 2016
+http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel
+- Sylvie Nicolet, "Burn-out: si on arrêtait d'en parler à tort et à travers ?", _Les Cahiers du DRH_, n°220, 01 mai 2015
+- Louise Pothier, "Un burn-out n'est ni un épuisement, ni une dépression : sa prise en charge est spécifique", _L'Obs Le Plus_, 23 février 2016 
+http://leplus.nouvelobs.com/contribution/1486645-un-burn-out-n-est-ni-un-epuisement-ni-une-depression-sa-prise-en-charge-est-specifique.html 
 - Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016 
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
 - "Plus de 3 millions de Français au bord du burn-out", _Le Monde_, 22 janvier 2014 
@@ -59,9 +64,7 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
-- Bernard Morat, "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", _Miroir Social_, 15 avril 2016
-http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel 
-- Sylvie Nicolet, "Burn-out: si on arrêtait d'en parler à tort et à travers ?", _Les Cahiers du DRH_, n°220, 01 mai 2015
+
 
 ## Etudes sur le burn-out 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
