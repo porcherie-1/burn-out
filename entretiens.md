@@ -4,6 +4,8 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ### Conférence : les RPS au prétoire (22 février 2017), avec Scarlett Salman et Rémy Ponge  
 
+<A HREF="conf1.pdf" target="_blank">RPS au prétoire</A>
+
 ### Entretien avec Jean-Paul Vouiller et Philippe Boutrel (24 mars 2017)
 
  <A HREF="entretien1.pdf" target="_blank">Jean-Paul Vouiller et Philippe Boutrel</A>
