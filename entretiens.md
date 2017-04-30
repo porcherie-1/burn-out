@@ -6,7 +6,6 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ### Entretien avec Jean-Paul Vouiller et Philippe Boutrel (24 mars 2017)
 
-
  <A HREF="entretien1.pdf" target="_blank">Jean-Paul Vouiller et Philippe Boutrel</A>
 
 ### Entretien avec Gérard Sebaoun (4 avril 2017) 
