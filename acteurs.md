@@ -7,8 +7,7 @@
 ## Loïc Lerouge
 
 ## Marc Loriol
-Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Selon lui, le stress (qu'il 
-Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais considéré de manière plus profonde (organisation du travail au sein de l'entreprise, comment les salariés se sentent dans leur travail...). 
+Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais au contraire, il devrait être considéré de manière plus profonde en favorisant "les formes organisationnelles et les relations sociales au travail" (prendre en compte l'isolement des salariés, créer des échanges autour du travail, organisation plus horizontale). Individualiser le burn-out n'est pas souhaitable car cela met plus de pression sur le salarié et le fait culpabiliser parce qu'il n'est pas parvenu à trouver un bon équilibre entre le travail et sa vie privée.  
 
 
 ## Max Masse
