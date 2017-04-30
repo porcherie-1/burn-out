@@ -18,6 +18,8 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 ### Table-ronde sur le burn-out, organisé par les sympathisants de Benoît Hamon (18 avril 2017) 
 
+<A HREF="conf2.pdf" target="_blank">Table ronde</A>
+
 ### Entretien avec Muriel Barbé (26 avril 2017) 
 
 ### Entretien avec Jean-Claude Delgenes (28 avril 2017) 
