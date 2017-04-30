@@ -25,7 +25,9 @@ http://sudeducation37.fr/IMG/pdf/article_548407.pdf
 http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487 
 
 ## Domaine médical
-- Catherine Riva, "Le burnout : une maladie qui n'existe pas ?", _Le Matin_, in Association des Médecins du canton de Genève, 17 décembre 2006
+- Michel Delbrouk, "Burn-out et médecine", _Cahiers de psychologie clinique_, 2007 
+http://www.cairn.info/revue-cahiers-de-psychologie-clinique-2007-1-page-121.htm  
+- Catherine Riva, "Le burnout : une maladie qui n'existe pas ?", _Le Matin_, in Association des Médecins du canton de Genève, 17 décembre 2006 
 - Florence Rosier, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
 - "Epuisement professionnel et dépression peuvent être distingués par la salive et le sang", _Psychomédia_, 23 février 2011
 http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues-par-des-mesures-biologiques 
@@ -39,6 +41,8 @@ http://www.lafranceagricole.fr/actualites/gestion-et-droit/aide-au-repit-une-ava
 http://www.20minutes.fr/economie/1705363-20151008-burn-out-france-avoir-air-heureux-travail-suspect 
 - Julien Massillon, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
 http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet-a-fait-un-burn-out-apres-l-echec-de-son-film-blood-ties-620711
+- Philippe Mesmer, "Au Japon, un plan d'action contre la 'mort par surmenage'", _Le Monde_, 13 février 2017 
+http://www.lemonde.fr/m-perso/article/2017/02/13/au-japon-un-plan-d-action-contre-la-mort-par-surmenage_5078756_4497916.html 
 - Maxime Morand, "Débat : Bien-être au travail : attention arnaque !", _Courrier International_, 28 novembre 2016 
 - Jules Varlot, "En plein burn-out, Kanye West a été hospitalisé en psychiatrie", _GQ Magazine_, 22 novembre 2016 
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
@@ -57,4 +61,8 @@ http://www.culturepub.fr/videos/pepsi-max-burnout/
 - ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
 - DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
 
-
+## Reportages 
+- "Burn-out : le point de non retour", _Dans les yeux d'Olivier_, 23 juin 2016 
+https://www.youtube.com/watch?v=a91I201mTT4 
+- "Philippe Zawiega : 'Le burn-out n'est pas une maladie'", _Europe 1_, 2 février 2017 	
+https://www.youtube.com/watch?v=zOdtKHCXUiI 
