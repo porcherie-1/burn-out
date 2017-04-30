@@ -41,10 +41,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 
 
-<div id="fich1"> 
-<object width="600" height="400" data="https://controverses.github.io/burn-out/Technologia.pdf" type="text/html" codetype="application/pdf" ></object> 
-</div>
-
+<img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
