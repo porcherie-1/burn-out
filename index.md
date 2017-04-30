@@ -13,7 +13,7 @@
 <p align="justify">- Manifestations émotionnelles: perte de contrôle, peurs irréprésibles, attitude apathique, dépressivité, perte des valeurs et de l'empathie, perte de sens généralisée  <br>
 - Manifestations comportementales: isolement social, agressivité, cynisme, désengagement moral envers autrui et envers le travail, absentéisme, manque d'énergie  <br>
 - Manifestations cognitives: diminution de l'efficacité cognitive, troubles de concentration et de mémoire, désorganisation, indécision, résistance au changement, situations d'échec professionnel fréquentes  <br>
-- Retentissements somatiques: douleurs dorsales, céphalées, nausées, vertiges, troubles du sommeil, prise ou perte de poids, consommation de substances</p> 
+- Retentissements somatiques: douleurs dorsales, céphalées, nausées, vertiges, troubles du sommeil, prise ou perte de poids, consommation de substances</p>
 </div> 
 </div>
 <br>
