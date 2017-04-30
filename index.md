@@ -33,4 +33,4 @@ Nous verrons ainsi ce qu'apporte, de manière positive comme négative, la notio
 
 
 
-<img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+
