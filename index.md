@@ -24,6 +24,7 @@ La première mention du concept d’épuisement est faite par le psychiatre fran
 - Retentissements <strong>somatiques</strong>: douleurs dorsales, céphalées, nausées, vertiges, troubles du sommeil, prise ou perte de poids</p>
 </div> 
 </div>
+<br>
 
 ## Pourquoi étudier le burn-out : Notre projet  
 <p align="justify">L'utilisation large du terme burn-out est ainsi controversée tant sa définition est loin de faire consensus et tant il est pourtant employé de manière croissante comme une modalité de la souffrance au travail, une façon de la décrire, variable selon celui qui l'utilise. Preuve de l'urgente nécessité d'une clarification, d'une quantification et prise en charge du phénomène en pleine croissance, l'Assemblée Nationale a décidé en 2016 de créer une mission d'information "relative au syndrome d'épuisement professionnel (ou burn out)" (<a href="http://www.assemblee-nationale.fr/14/rap-info/i4487.asp" target="_blank">consulter le rapport</a>). Alors, pourquoi le burn-out, plutôt que d'autres troubles similaires, pour aborder la souffrance au travail ?  <br>
