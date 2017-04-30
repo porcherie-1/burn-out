@@ -8,15 +8,12 @@ def OMS:  la santé doit se définir non seulement comme « l’absence de malad
 - problème: on ne naît pas manager --> nécessité de formation
 - Entreprise libérée, nouveau management 
 - observation et formation par Muriel Barbé, bienveillance et écoute
+- pas forcément besoin de reconnaissance en tant que maladie professionnelle: controverse annexe, pcq le mal est là, burn-out type de souffrance au travail donc on peut déjà agir contre
 
 ## Qui impliquer dans la prévention ? 
 - sphère de proximité : tout se joue dans les 10 m selon Marie Pezé --> en entreprise, environnement direct avec collègues, mais surtout représentants du personnel (CHSCT, délégués du personnel)
 --> délégués sociaux en entreprise: importation de la méthode québécoise en France avec JPV 
 - quelle place de la médecine du travail ? Muriel pour médecine de prévention, Caroline RH contre trop de place à médecine du travail (<> tendance à sortir du cadre professionnel type organisation du travail: sphère personnelle de l'individu)
-
-## Avec ou sans reconnaissance en tant que maladie professionnelle ? 
-- SANS : réorganisation du management --> oui, déjà avec réorganisation du management oui (le mal est là, pas de controverse là-dessus) 
-- AVEC: JCD souhaite 10% d'incapacité et à terme 0% pour pouvoir soumettre dossier au comité régional de reconnaissance des maladies professionnelles 
 
 ## Avec quelles incitations ?
 - les moyens existent aujourd'hui mais pas de consensus, pas de coordination, dans les entreprises peur que remise en question du modèle de dvpt économique, sans garantie qu'on améliore la productivité (bouquin de JCD)
