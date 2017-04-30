@@ -49,7 +49,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 
 Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
 épuisement --> étudiant, parental, Alzheimer 
-Vs : cf l'article d'Eva 
+Vs : cf l'article d'Eva + l'article burn out et syndrome des yuppies qui dit qu'en gros c'est juste une nouvelle invention comme la neurasthénie qui vise juste à éviter la psychologisation de la souffrance et éviter d'accuser les gens
 
 Eleonore 
  
