@@ -7,11 +7,14 @@
 ## Loïc Lerouge
 
 ## Marc Loriol
+Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Selon lui, le stress (qu'il 
+Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais considéré de manière plus profonde (organisation du travail au sein de l'entreprise, comment les salariés se sentent dans leur travail...). 
+
 
 ## Max Masse
 
 ## Gérard Sebaoun
-Député de la quatrième circonscription du Val d'Oise depuis 2012, il est le rapporteur du rapport d'information de l'Assemblée nationale sur l'épuisement professionnel, publié en février 2017. Nous avons pu le rencontrer afin d'avoir de plus amples informations sur son rapport. Tout d'abord, il pense qu'il n'existe aucune définition du burn-out ni de prédisposition biologique. Il affirme que : "le burn-out naît d'une rencontre entre un individu et une situation". Le burn-out est un "engrenage infernal", "un véritable drame humain". Selon lui, l'organisation du travail est responsable de l'émergence de burn-out. Il faudrait accorder des espaces de liberté aux salariés,  accentuer la formation des managers et surtout parvenir à modifier le mode d'organisation du travail au sein des entreprises (vers les entreprises "libérées"). Il a précisé que le but du rapport n'est pas d'inscrire le burn-out au tableau des maladies professionnelles (comme le souhaite Benoît Hamon) mais de donner des pistes de réflexion sur le burn-out. 
+Député PS de la quatrième circonscription du Val d'Oise depuis 2012, il est le rapporteur du rapport d'information de l'Assemblée nationale sur l'épuisement professionnel, publié en février 2017. Nous avons pu le rencontrer afin d'avoir de plus amples informations sur son rapport. Tout d'abord, il pense qu'il n'existe aucune définition du burn-out ni de prédisposition biologique. Il affirme que : "le burn-out naît d'une rencontre entre un individu et une situation". Le burn-out est un "engrenage infernal", "un véritable drame humain". Selon lui, l'organisation du travail est responsable de l'émergence de burn-out. Il faudrait accorder des espaces de liberté aux salariés,  accentuer la formation des managers et surtout parvenir à modifier le mode d'organisation du travail au sein des entreprises (vers les entreprises "libérées"). Il a précisé que le but du rapport n'est pas d'inscrire le burn-out au tableau des maladies professionnelles (comme le souhaite Benoît Hamon) mais de donner des pistes de réflexion sur le burn-out. 
 
 ## Technologia
 
