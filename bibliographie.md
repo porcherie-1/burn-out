@@ -4,6 +4,7 @@
 ## Articles sociologiques 
 - Guillaume Lecœur, « Le stress : un objet d'étude pertinent pour les sciences sociales ? », Idées économiques et sociales 2011/2 (N° 164), p. 51-59. 
 - Marc Loriol, « La construction sociale du stress : entre objectivation, subjectivité et régulations collectives des difficultés au travail », Nouvelle revue de psychosociologie 2010/2 (n° 10), p. 111-124.
+- Cathébras Pascal, "Du « burn out » au « syndrome des yuppies » : deux avatars modernes de la fatigue", Sciences sociales et santé, Volume 9, n°3, 1991. pp. 65-94;
 
 ## Associations de patients  
 - Association France Burn out : http://asso-franceburnout.fr/ 
@@ -22,7 +23,9 @@ http://www.miroirsocial.com/actualite/13023/comment-developper-l-ecoute-individu
 - Mathilde Goanec, Difficile consensus autour du burn out, _Mediapart.fr_, 4 juillet 2015
 http://sudeducation37.fr/IMG/pdf/article_548407.pdf 
 - Rapport d'information de l'Assemblée nationale, _Assemblée nationale_, 15 février 2017 
-http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487 
+http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487
+- Plan santé au travail, 2016-2020, _Ministère du Travail, de l’Emploi, de la Formation professionnelle et du Dialogue social_
+http://travail-emploi.gouv.fr/IMG/pdf/pst3.pdf
 
 ## Domaine médical
 - Michel Delbrouk, "Burn-out et médecine", _Cahiers de psychologie clinique_, 2007 
@@ -33,6 +36,10 @@ http://www.cairn.info/revue-cahiers-de-psychologie-clinique-2007-1-page-121.htm
 http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues-par-des-mesures-biologiques 
 - "De simples analyses de salive et de sang pourraient détecter précocement l'épuisement professionnel", _Techno-science.net_, 23 mars 2011  
 http://www.techno-science.net/?onglet=news&news=8760 
+- Rapport de l'Académie Nationale de Médecine sur le burn-out, 26 février 2016
+http://www.academie-medecine.fr/wp-content/uploads/2016/02/26-fev-2016-RAPPORT-ACADEMIE-Burn-out-V3.pdf
+- A. Weber and A. Jaekel-Reinhard, "Burnout syndrome: a disease of modern societies ?", _Occup.Med._, Vol.50, No.7, pp.512-517,2000
+- V. Kovess-Masfety, L. Saunder, "Le burnout: historique, mesures et controverses",_ScienceDirect_, janvier 2016
 
 ## Dossier de presse 
 - Rosanne Aries, "Une avancée pour les agriculteurs en burn-out", _La France Agricole_, 14 février 2017 
@@ -52,10 +59,16 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
+- Bernard Morat, "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", _Miroir Social_, 15 avril 2016
+http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel 
+- Sylvie Nicolet, "Burn-out: si on arrêtait d'en parler à tort et à travers ?", _Les Cahiers du DRH_, n°220, 01 mai 2015
 
 ## Etudes sur le burn-out 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
 - Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
+- "Prévenir le burn-out", Etude de la Fédération des Intervenants en Risques Psychosociaux (FIRPS), mars 2016
+http://firps.org/wp-content/uploads/2016/03/FIRPS_Livret-Burnout_SP.pdf
+- Guide d'aide à la prévention « Le syndrome d’épuisement professionnel ou burnout. Mieux comprendre pour mieux agir » réalisé par la Direction générale du travail (DGT), l’Institut national de recherche et de sécurité (INRS) et l’Anact, 2015
 
 ## Ouvrages généraux 
 - ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
