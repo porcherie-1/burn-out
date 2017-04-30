@@ -43,9 +43,13 @@ La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de per
 
 <img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
-D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en souffrance psychique liée au travail, dont 7% (ce qui équivaut à 30 000) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations possibles. 
+D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en souffrance psychique liée au travail, dont 7% (ce qui équivaut à **30 000 personnes**) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations possibles. 
 
->"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre 5% et 20%". 
+>"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre **5% et 20%**". 
+
+Contrairement aux autres organismes, l'INRS (Institut National Recherche et Sécurité) a une approche financière du burn-out. 
+
+>"En France, le coût social du stress (dépenses de soin, celles liées à l'absentéisme, aux cessations d'activité et aux décès prématurés) a été estimé en 2007 entre 2 et 3 milliards d'euros" (étude INRS et Arts et Métiers ParisTech)
 
 L'Académie de médecine estime quant à elle que les données ne sont pas suffisamment précises pour déterminer combien de personnes sont touchées par le burn-out aujourd'hui. 
 
