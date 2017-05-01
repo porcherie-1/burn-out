@@ -60,6 +60,10 @@ L'Académie de médecine estime quant à elle que les données ne sont pas suffi
 De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme Jean-Claude Delgenes estiment que le burn-out peut également toucher les parents ou les étudiants. 
 Alzheimer ? La j’ai pas compris 
 
+
+<img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+
+
 ## Construction sociale du burn-out 
 Loriol, performativité de la notion 
 auto-diagnostic <=> psychiatrisation, Légeron 
