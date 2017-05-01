@@ -31,7 +31,6 @@ CARRE BIO
 
 <p align="justify">Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out en France. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.</p>
  
-
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 <strong>Conclusion du rapport de Technologia:</strong><br> "Parmi l’ensemble des actifs occupés, <I>3,2 millions</I> seraient en situation de travail excessif et compulsif, présentant un surengagement pathologique et connaissant un risque élevé de développer un burn out." 
@@ -39,7 +38,8 @@ CARRE BIO
 </div>
 <br>
 
-<p align="justify">La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de personnes qui pourraient développer un burn-out, en utilisant les travaux de Schaufeli et l'échelle de dépendance au travail (DUWAS). Or, ce chiffre a été très tôt repris par les médias qui ont souvent fait l'erreur d'assimiler le nombre de personnes "à risque" au nombre de personnes réellement en burn-out. Par exemple, nous avons trouvé dans le journal <a href="http://www.kernews.com/burn-out-pourquoi-la-france-est-elle-la-plus-touchee-par-la-maladie-du-siecle/3535/" target="_blank">Ker News</a>, cette affirmation, confirmée par l'interviewé, le docteur François Baumann :</p>
+<p align="justify"> La conclusion que ce cabinet émet en 2014 estime à 3,2 millions le nombre de personnes qui pourraient développer un burn-out, soit 12% de la population active. Pour faire cette étude, Technologia s’est appuyée sur les travaux de Schaufeli (1998), l'échelle de dépendance au travail (DUWAS) et des questions de l’échelle MBI (Maslach Burnout Inventory) telles que _“Vous sentez-vous émotionnellement vidé(e) par votre travail ?”_ ou encore _“Vous sentez-vous fatigué(e) lorsque vous vous levez le matin et que vous avez à affronter une nouvelle journée de travail ?”_ posées à un échantillon de 1000 salariés représentatifs de l’ensemble de la population active. Comme le souligne le député <a href="https://controverses.github.io/burn-out/acteurs#gerard-sebaoun" target="_blank">Gérard Sebaoun</a> , plus il y a des questions ouvertes et simples, plus le biais d’erreur augmente ainsi que les réponses positives. L’étude de Technologia a eu un rôle ambivalent puisque d’un côté elle a permis de mettre sur le devant de la scène publique le burn-out et son importance et de l’autre, elle a été suivie par de nombreuses autres études quantitatives et épidémiologiques afin de déterminer son ampleur réelle. </p>
+<p align="justify"> En outre, ce chiffre a été très rapidement repris par les médias qui ont souvent fait l'erreur d'assimiler le nombre de personnes "à risque" au nombre de personnes réellement en burn-out. Par exemple, nous avons trouvé dans le journal <a href="http://www.kernews.com/burn-out-pourquoi-la-france-est-elle-la-plus-touchee-par-la-maladie-du-siecle/3535/" target="_blank">Ker News</a>, cette affirmation, confirmée par l'interviewé, le docteur François Baumann :</p>
 
 <img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
@@ -57,19 +57,34 @@ Contrairement aux autres organismes, l'INRS (Institut National Recherche et Séc
 
 >Les données épidémiologiques sur le burn-out sont à ce jour très insuffisantes, tant dans le domaine descriptif qu'analytique. Cette défaillance est la conséquence logique des difficultés à poser avec précision les limites du burn-out (rapport de l'Académie de médecine sur le burn-out). 
 
-<p align="justify">De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme Jean-Claude Delgenes estiment que le burn-out peut également toucher les étudiants. </p>
+<p align="justify">La quantification exacte du burn-out est encore impossible aujourd’hui à cause des instruments employés : toutes les échelles qui existent font appel à l’auto-évaluation et ne sont donc pas fiables. Le député <a href="https://controverses.github.io/burn-out/acteurs#gerard-sebaoun" target="_blank">Gérard Sebaoun</a> que nous avons rencontré a cependant conclu que le nombre de cas se situait vraisemblablement entre **30 000 et 100 000 personnes**, 30 000 personnes correspondant à l’étude de l’Institut de Veille Sanitaire et 100 000 suite à l’extrapolation d’une enquête menée par l’Académie de médecine belge ( Service public fédéral Emploi, Travail et Concertation sociale, Direction générale Humanisation du travail, _Recherche sur le burn out au sein de la population active belge_, Bruxelles, 2011.) </p>
 
+<p align="justify"> De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme <a href="https://controverses.github.io/burn-out/acteurs#jeanclaude-delgenes" target="_blank">Jean-Claude Delgenes </a> estiment que le burn-out peut également toucher les étudiants. D’après le rapport de l’Assemblée nationale, “le burn-out résulterait de l’exposition à plusieurs facteurs de risques psychosociaux, créant une situation de déséquilibre pour l’individu”, aussi variés que le célibat, la séparation, des restructurations d’entreprise… Les études ne sont aujourd’hui pas assez complètes pour définir et connaître précisément la part de ces facteurs dans l’apparition de burn-out. 
+ </p>
 
 <img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
 
 ## Construction sociale du burn-out 
-Loriol, performativité de la notion 
-auto-diagnostic <=> psychiatrisation, Légeron 
-(sorte de transition : cause = psychologie et/ou environnement du travail)
+
+<p align="justify"> Le sociologue  <a href="https://controverses.github.io/burn-out/acteurs#marc-loriol" target="_blank">Marc Loriol </a>  affirme que le stress, qu’il entend comme un synonyme du burn-out, varie en fonction des lieux, des époques et des métiers. La notion-même de burn-out est difficile à appréhender et chaque acteur y voit des significations variées. Le stress, la souffrance au travail et les RPS sont autant de constructions sociales, ce qui signifie que ces notions ne sont pas naturelles mais modelées par des **"entrepreneurs de cause"**. Dans son approche constructiviste, Loriol distingue trois catégories socio-professionnelles : les infirmières et les métiers du “care” plus généralement, les policiers et les cadres. Il a remarqué que pour tous ces corps de métier, la catégorie du burn-out a permis de souligner les difficultés vécues au travail. </p>
+
+<p align="justify">L'étude du Cabinet Technologia a également permis de déceler les catégories socio-professionnelles les plus touchées par le burn-out. Parmi elles, figurent les agriculteurs, les artisans et les catégories intellectuelles supérieures.</p> 
 
 <img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
-Vs : cf l'article d'Eva + l'article burn out et syndrome des yuppies qui dit qu'en gros c'est juste une nouvelle invention comme la neurasthénie qui vise juste à éviter la psychologisation de la souffrance et éviter d'accuser les gens
 
+<p align="justify"> Tout d’abord, les réflexions sur le burn-out sont nées autour des professions des soignants. C’est pourquoi les infirmières sont mieux informées sur le burn-out. On a ainsi intégré très tôt des formations pour reconnaître un cas de burn-out et le prévenir, à l'aide de brochures ou encore des offres d’accompagnement psychologique. Au contraire, chez les policiers, dans un contexte de “préoccupation sociale croissante pour la sécurité”, des psychologues abordent les thématiques du stress mais cela se fait moins naturellement que chez les infirmières. Une campagne de sensibilisation sur ce thème proposée par CFE-CGC a été menée dans les années 1990 afin que les cadres soient plus à même de comprendre le stress qui est présent dans leur métier. Des formations spécifiques ont été proposées aux managers. Ces premières mobilisations, portées par divers acteurs, ont permis de reconnaître quelques formes de stress au travail. Ce phénomène a ensuite été institutionnalisé au travers d’accords collectifs comme <a href="http://www.dgdr.cnrs.fr/drh/protect-soc/documents/fiches_rps/ue_accord_cadre_8_octobre_2004.pdf " target="_blank">l’accord-cadre sur le stress au travail du 8 octobre 2004 </a> et des structures dédiées au stress comme des groupes de parole, des cabinets spécialisés (par exemple, le cabinet Technologia). </p> 
+
+<p align="justify"> Barley et Knight (1992) révèlent l’existence d’un **usage symbolique** du stress chez certains groupes professionnels, afin d’accroître leur légitimité. </p> 
+> “Mettre en avant son stress, c’est souligner la difficulté de l’activité prise en charge, l’engagement personnel important des professionnels concernés et enfin la compétence propre qu’il faut savoir mettre en oeuvre pour tenir malgré tout”. (M. Loriol) 
+
+<p align="justify"> Par exemple, les infirmières parlent plus souvent du stress que les médecins car leur légitimité est moins importante. Elles ont également plus facilement accès à un soutien psychologique que dans d'autres professions. De même, pour les cadres, être étiqueté comme un salarié stressé n’est pas forcément négatif puisqu’il s’agit d’une “maladie des combattants”. La reconnaissance du burn out est liée à leur identité professionnelle. Au contraire, pour les policiers, le burn-out est perçu comme un signe de faiblesse. Lorsqu’un salarié paraît être en burn-out, on lui retire son arme de service et il est peu à peu exclu. </p> 
+
+<p align="justify"> Même si le burn-out est une construction sociale qui dépend de la gestion collective du terme par un groupe, il ne s’agit en aucun cas de minimiser le mal-être. </p> 
+
+<p align="justify"> Le burn-out peut être un instrument mobilisé par différents acteurs. D’un côté, le risque de reconnaître le burn-out comme un trouble spécifique serait d’accroître considérablement le nombre de personnes touchées. L’**auto-diagnostic de burn-out** pourrait être une entrave à sa reconnaissance puisque tous les salariés s’auto-définiraient comme étant touchés par cette forme de souffrance, d’autant plus s’il est perçu plus favorablement que d’autres troubles comme la dépression.La performativité liée à la reconaissance du burn-out comme une maladie est à prendre en compte pour comprendre l'étendue des débats. </p> 
+<p align="justify"> De l’autre, Patrick Légeron pense qu’on pourrait arriver à une **psychologisation excessive** du burn-out. Le sociologue Pascal Cathébras (1991) développe l’idée que comme la neurasthénie ou le “syndrome des yuppies” (ou syndrome de fatigue chronique), le burn-out serait une nouvelle invention qui vise uniquement à éviter la psychologisation de la souffrance et éviter d’accuser les gens. Or, d’autres causes sont invoquées dans le burn-out comme l’environnement de travail et l’organisation des entreprises. </p> 
+
+ 
 
