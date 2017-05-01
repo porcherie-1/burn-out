@@ -24,7 +24,7 @@ Le burn-out, un nouveau diagnostic ou une évolution linguistique ?
 <div style="padding:3px; background-color:#e0e0e0;">
 
 <p align ="justify"><strong>Marqueurs biologiques et burn-out</strong>
-
+<br>
 Peu de recherches sont menées sur les marqueurs biologiques qui pourraient détecter le burn-out chez les individus. L’étude de Toker et al. (2012) établit une relation entre burn-out, dépression, anxiété et inflammation : tous ces troubles seraient en fait liés à des marqueurs biologiques tels que la <strong>protéine C-réactive et les fibrinogènes </strong>. Les taux de ces deux marqueurs sont élevés pour les patients dépressifs et atteints de burn-out, ce qui renforce la confusion entre les deux syndromes, déjà existante du fait de symptômes phénotypiques similaires (fatigue, cynisme, détachement face au travail, troubles du sommeil…). 
 La différenciation entre burn-out et dépression pourrait se faire à partir du taux de cortisol, selon certains chercheurs comme Sonia Lupien de l’Université de Montréal et Robert-Paul Juster du Centre de recherche Fernand-Seguin. 
 
@@ -40,7 +40,6 @@ Un trait non négligeable du débat autour du burn-out est ainsi le manque de co
 <br>
 
 <p align="justify">L’enjeu derrière cette question est donc aussi de savoir quel est le critère de définition retenu. On a un objet, le burn-out, qui est qualifié de « médical » (étant désigné comme une « maladie », un « syndrome », un « trouble psychosocial ») sans pour autant que le critère de définition retenue soit le critère médical. Certains acteurs définissent ainsi le burn-out autant par ses causes que par ses conséquences.</p>
-
 <br>
 
 ## Mesurer le burn-out
