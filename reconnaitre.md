@@ -45,7 +45,7 @@ CARRE BIO
 
 <p align="justify">D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en état de  souffrance psychique liée au travail, dont 7% (ce qui équivaut à <strong>30 000 personnes</strong>) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations diverses.</p> 
 
->"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre **5% et 20%**". 
+>"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre <strong>5% et 20%</strong>". 
 
 Contrairement aux autres organismes, l'INRS (Institut National Recherche et Sécurité) a une approche financière du burn-out. 
 
