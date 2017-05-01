@@ -79,8 +79,8 @@ http://firps.org/wp-content/uploads/2016/03/FIRPS_Livret-Burnout_SP.pdf
 
 
 ## Ouvrages généraux 
-- ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
 - DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
+- ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
 
 ## Reportages 
 - "Burn-out : le point de non retour", _Dans les yeux d'Olivier_, 23 juin 2016 
