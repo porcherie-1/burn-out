@@ -15,7 +15,7 @@ Eva
 - Accident du travail (JPV)
 Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 
-## Sanctions, qui paie ? Reponsabilité 
+## A qui attribuer la reponsabilité d'un burn-out ? 
 
 <p align="justify">La question de la responsabilité d’un burn-out est une question qui est sous-entendue dans d’autres aspects de la controverse mais qui sous-tend elle-même d’autres points.</p>
 
