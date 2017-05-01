@@ -57,7 +57,6 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 <p align="justify">En 2012, le syndicat SUD BPCE demande l’arrêt de ces pratiques à la Caisse d’Épargne du Rhône Alpes causant selon le syndicat un stress permanent et des risques psycho-sociaux. Le Tribunal de Grande Instance de Lyon prononce son jugement le 4 septembre 2012 et demande à la Caisse d’Épargne de ne plus utiliser le benchmark. La banque fait appel et la Cour d’appel de Lyon change d’avis en 2014 en revenant en partie sur la première décision. En effet, la Caisse d’Épargne aurait modifié son utilisation du logiciel depuis 2012 rendant caduque la demande de suppression du syndicat. Cependant, la Cour condamne la banque à reverser 15 000 euros de dommages-intérêts au syndicat SUD BPCE pour la réparation de la mauvaise utilisation du benchmark entre 2007 et 2012 ayant entrainé « une souffrance collective au travail » du côté des salariés. Ici, le syndicat a donc en partie gagné contre les nouvelles méthodes d’organisation du travail.</p>
 </div>
 </div>
-<br>
 
 <p align="justify">Les techniques de management sont aussi remises en cause dans les procès.</p>
 
