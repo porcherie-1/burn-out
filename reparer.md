@@ -32,11 +32,11 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 <p align="justify"><a href="https://controverses.github.io/burn-out/acteurs#grard-sebaoun" target="_blank">Gérard Sebaoun</a> nous a également indiqué que selon lui c’est la hiérarchie pyramidale qui repose sur les individus qui pose problème. Il parle d’une « perte de capacité » des individus à contrôler leur vie. C’est également ce qui ressortait dans le premier témoignage d’un travailleur ayant fait un burn-out. Le travailleur insistait sur le fait que plus qu’une personne en particulier, ce qui était selon lui responsable de son burn-out c’était sa hiérarchie et une ré-organisation de son travail qui frôlait l’absurde.</p> 
 
 
-
+<br>
 ## La judiciarisation du syndrôme d'épuisement profesionnel 
 
 <p align="justify">Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action de directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.</p>
-
+<br>
 ### Les syndicats et la justice pour remettre en cause l’entreprise
 
 <p align="justify">Selon <a href="https://controverses.github.io/burn-out/acteurs#loc-touranchet" target="_blank">Loïc Touranchet</a>, avocat au cabinet Actance, les logiques d’entreprises ont évolué et montrent une contradiction. D’une part à court terme, l’entreprise obéit à des logiques de profit, et d’autre part à long terme, l’entreprise recherche une image positive et pérenne de son organisation. Ainsi, aller en justice permet aux syndicats de remettre en cause l’image de marque de l’entreprise. </p>
@@ -54,7 +54,7 @@ Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
 
 <p align="justify">En 2012, le syndicat SUD BPCE demande l’arrêt de ces pratiques à la Caisse d’Épargne du Rhône Alpes causant selon le syndicat un stress permanent et des risques psycho-sociaux. Le Tribunal de Grande Instance de Lyon prononce son jugement le 4 septembre 2012 et demande à la Caisse d’Épargne de ne plus utiliser le benchmark. La banque fait appel et la Cour d’appel de Lyon change d’avis en 2014 en revenant en partie sur la première décision. En effet, la Caisse d’Épargne aurait modifié son utilisation du logiciel depuis 2012 rendant caduque la demande de suppression du syndicat. Cependant, la Cour condamne la banque à reverser 15 000 euros de dommages-intérêts au syndicat SUD BPCE pour la réparation de la mauvaise utilisation du benchmark entre 2007 et 2012 ayant entrainé « une souffrance collective au travail » du côté des salariés. Ici, le syndicat a donc en partie gagné contre les nouvelles méthodes d’organisation du travail.</p>
 
-
+<br>
 ### Entre droits et devoirs de l’entreprise
 
 <p align="justify">Les jugements sur les RPS et la souffrance au travail pose la question du rôle du juge.
