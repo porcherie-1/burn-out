@@ -67,11 +67,16 @@ http://www.culturepub.fr/videos/pepsi-max-burnout/
 
 
 ## Etudes sur le burn-out 
-- Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
 - Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
+- "Epuisement professionnel", Inserm, 2011
+http://www.ipubli.inserm.fr/bitstream/handle/10608/217/?sequence=13 
+- Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
+- Guide d'aide à la prévention « Le syndrome d’épuisement professionnel ou burnout. Mieux comprendre pour mieux agir » réalisé par la Direction générale du travail (DGT), l’Institut national de recherche et de sécurité (INRS) et l’Anact, 2015
+- Khireddine et al., _la souffrance psychique en lien avec le travail chez les salariés actifs en France entre 2007 et 2012_, Institut de Veille Sanitaire (INVS)  
+http://invs.santepubliquefrance.fr//beh/2015/23/pdf/2015_23_2.pdf 
 - "Prévenir le burn-out", Etude de la Fédération des Intervenants en Risques Psychosociaux (FIRPS), mars 2016
 http://firps.org/wp-content/uploads/2016/03/FIRPS_Livret-Burnout_SP.pdf
-- Guide d'aide à la prévention « Le syndrome d’épuisement professionnel ou burnout. Mieux comprendre pour mieux agir » réalisé par la Direction générale du travail (DGT), l’Institut national de recherche et de sécurité (INRS) et l’Anact, 2015
+
 
 ## Ouvrages généraux 
 - ZAWIEJA Philippe, _Le burn out_, PUF, Paris, 2015 
