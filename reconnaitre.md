@@ -43,7 +43,7 @@ La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de per
 
 <img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
-D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en souffrance psychique liée au travail, dont 7% (ce qui équivaut à **30 000 personnes**) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations possibles. 
+D'autres acteurs avancent des chiffres sur le burn-out. L'INVS (Institut de Veille Sanitaire) estime que 480 000 salariés sont en état de  souffrance psychique liée au travail, dont 7% (ce qui équivaut à **30 000 personnes**) en burn-out. L'Inserm n'avance aucun chiffre mais simplement des pourcentages imprécis de la population qui serait touchée. L'Inserm s'accorde pour dire que l'utilisation du test MBI est trop vague et peut conduire à des interprétations diverses. 
 
 >"Les prévalences d'épuisement professionnel en population au travail varient beaucoup selon les études, de quelques pourcents à quelques dizaines de pourcents mais se situent le plus souvent entre **5% et 20%**". 
 
@@ -51,21 +51,15 @@ Contrairement aux autres organismes, l'INRS (Institut National Recherche et Séc
 
 >"En France, le coût social du stress (dépenses de soin, celles liées à l'absentéisme, aux cessations d'activité et aux décès prématurés) a été estimé en 2007 entre 2 et 3 milliards d'euros" (étude INRS et Arts et Métiers ParisTech)
 
+Le Centre de recherche sur les Risques et les Crises avance plusieurs chiffres clés sur le stress : il affecterait 28% des travailleurs (AESST, 2012) et 79% des managers européens (AESST, 2011). Le coût du stress est également estimé à **1 à 3,5% du PNB** selon une étude de Hoel, Sparks et Cooper, parue en 2001. 
+
 L'Académie de médecine estime quant à elle que les données ne sont pas suffisamment précises pour déterminer combien de personnes sont touchées par le burn-out aujourd'hui. 
 
 >Les données épidémiologiques sur le burn-out sont à ce jour très insuffisantes, tant dans le domaine descriptif qu'analytique. Cette défaillance est la conséquence logique des difficultés à poser avec précision les limites du burn-out (rapport de l'Académie de médecine sur le burn-out). 
 
+De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme Jean-Claude Delgenes estiment que le burn-out peut également toucher les parents ou les étudiants. 
+Alzheimer ? La j’ai pas compris 
 
-
-
-
-
-
-Burn-out ou syndrome d'épuisement professionnel ? uniquement professionnel ?
-épuisement --> étudiant, parental, Alzheimer 
-Vs : cf l'article d'Eva + l'article burn out et syndrome des yuppies qui dit qu'en gros c'est juste une nouvelle invention comme la neurasthénie qui vise juste à éviter la psychologisation de la souffrance et éviter d'accuser les gens
-
- 
 ## Construction sociale du burn-out 
 Loriol, performativité de la notion 
 auto-diagnostic <=> psychiatrisation, Légeron 
@@ -73,5 +67,6 @@ auto-diagnostic <=> psychiatrisation, Légeron
 
 <img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
+Vs : cf l'article d'Eva + l'article burn out et syndrome des yuppies qui dit qu'en gros c'est juste une nouvelle invention comme la neurasthénie qui vise juste à éviter la psychologisation de la souffrance et éviter d'accuser les gens
 
 
