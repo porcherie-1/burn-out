@@ -4,7 +4,7 @@ Le burn-out, un nouveau diagnostic ou une évolution linguistique ?
 ## Un trouble spécifique dans la souffrance au travail ? 
 
 
-Une des premières questions qui se pose sur le burn-out est la possibilité ou non de la différencier d’autres troubles. Ces troubles sont rassemblées dans une catégorie large de « RPS », risques psychosociaux. <a href="https://controverses.github.io/burn-out/acteurs#muriel-barb" target="_blank">Muriel Barbé</a> établit cependant une distinction dans cette catégorie entre ce qui relève des facteurs de risque psychosociaux, c’est-à-dire les situations à risque sur les personnes, et d’un autre côté les troubles psychosociaux, qui sont les conséquences individuelles et collectives de la réalisation des risques. Le burn-out fait donc partie de cette catégorie. Le cabinet Barbé dans ses documents distribués lors de ses interventions liste plusieurs troubles psychosociaux, allant de la symptomatologie physique et des manifestations émotionnelles jusqu’au suicide. Le syndrome d’épuisement professionnel, est inscrit juste avant le suicide. Lors de notre entretien elle a précisé que le burn-out était en effet « le bout du bout, après il n’y a que le suicide ». Elle entend donc le burn-out comme étant une situation bien spécifique. 
+<p align="justify">Une des premières questions qui se pose sur le burn-out est la possibilité ou non de la différencier d’autres troubles. Ces troubles sont rassemblées dans une catégorie large de « RPS », risques psychosociaux. <a href="https://controverses.github.io/burn-out/acteurs#muriel-barb" target="_blank">Muriel Barbé</a> établit cependant une distinction dans cette catégorie entre ce qui relève des facteurs de risque psychosociaux, c’est-à-dire les situations à risque sur les personnes, et d’un autre côté les troubles psychosociaux, qui sont les conséquences individuelles et collectives de la réalisation des risques. Le burn-out fait donc partie de cette catégorie. Le cabinet Barbé dans ses documents distribués lors de ses interventions liste plusieurs troubles psychosociaux, allant de la symptomatologie physique et des manifestations émotionnelles jusqu’au suicide. Le syndrome d’épuisement professionnel, est inscrit juste avant le suicide. Lors de notre entretien elle a précisé que le burn-out était en effet « le bout du bout, après il n’y a que le suicide ». Elle entend donc le burn-out comme étant une situation bien spécifique. 
 
 
 C’est la position la plus répandue concernant le burn-out. Une brochure éditée par le ministère du travail, l’INRS et l’ANACT présente dans une partie intitulée « les spécificités du burn-out » une définition du burn-out par rapport à d’autres troubles psychosociaux que sont, le stress, l’addiction au travail, la fatigue chronique et la dépression. Il faut noter la différenciation qui est faite entre le burn-out et la dépression. La dépression semble toucher tous les domaines, c’est-à-dire  toucher autant les malades dans  leur vie professionnelle que leur vie quotidienne et correspondrait à un « état » de l’individu, alors que le burn-out renvoie essentiellement à la vie professionnelle, étant associé à un phénomène de dépréciation subjectif dans le travail. Il y a cependant l’idée que le burn-out peut s’aggraver en dépression, ce qui complexifie davantage le positionnement du burn-out au sein des RPS. 
@@ -23,13 +23,13 @@ Cette analyse de termes nous montre que pour dans une certaine littérature, il 
 CARRE BIO
 
 
-L’enjeu derrière cette question est donc aussi de savoir quel est le critère de définition retenu. On a un objet, le burn-out, qui est qualifié de « médical » (étant désigné comme une « maladie », un « syndrome », un « trouble psychosocial ») sans pour autant que le critère de définition retenue soit le critère médical. Certains acteurs définissent ainsi le burn-out autant par ses causes que par ses conséquences.  
+L’enjeu derrière cette question est donc aussi de savoir quel est le critère de définition retenu. On a un objet, le burn-out, qui est qualifié de « médical » (étant désigné comme une « maladie », un « syndrome », un « trouble psychosocial ») sans pour autant que le critère de définition retenue soit le critère médical. Certains acteurs définissent ainsi le burn-out autant par ses causes que par ses conséquences.</p>
 
 
 
 ## Mesurer le burn-out
 
-Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out en France. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.  
+<p align="justify">Le burn-out est un trouble spécifique qui est difficile à définir et donc à mesurer puisque les acteurs mettent en avant des critères variés. C’est ainsi que le rapport du Cabinet Technologia estime qu’aujourd’hui, trois millions de personnes seraient “en risque élevé” de burn-out en France. Ce cabinet a mené une étude quantitative sur le burn-out en fonction de la catégorie socioprofessionnelle, du genre, du lieu de résidence et la taille de l’agglomération.</p>
  
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
@@ -39,7 +39,7 @@ Le burn-out est un trouble spécifique qui est difficile à définir et donc à 
 </div>
 <br>
 
-La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de personnes qui pourraient développer un burn-out, en utilisant les travaux de Schaufeli et l'échelle de dépendance au travail (DUWAS). Or, ce chiffre a été très tôt repris par les médias qui ont souvent fait l'erreur d'assimiler le nombre de personnes "à risque" au nombre de personnes réellement en burn-out. Par exemple, nous avons trouvé dans le journal <a href="http://www.kernews.com/burn-out-pourquoi-la-france-est-elle-la-plus-touchee-par-la-maladie-du-siecle/3535/" target="_blank">Ker News</a>, cette affirmation, confirmée par l'interviewé, le docteur François Baumann : 
+<p align="justify">La conclusion que ce cabinet émet en 2014 estime à 3 millions le nombre de personnes qui pourraient développer un burn-out, en utilisant les travaux de Schaufeli et l'échelle de dépendance au travail (DUWAS). Or, ce chiffre a été très tôt repris par les médias qui ont souvent fait l'erreur d'assimiler le nombre de personnes "à risque" au nombre de personnes réellement en burn-out. Par exemple, nous avons trouvé dans le journal <a href="http://www.kernews.com/burn-out-pourquoi-la-france-est-elle-la-plus-touchee-par-la-maladie-du-siecle/3535/" target="_blank">Ker News</a>, cette affirmation, confirmée par l'interviewé, le docteur François Baumann : 
 
 <img src="Capture d’écran 2017-04-30 à 18.34.17.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
@@ -57,8 +57,7 @@ L'Académie de médecine estime quant à elle que les données ne sont pas suffi
 
 >Les données épidémiologiques sur le burn-out sont à ce jour très insuffisantes, tant dans le domaine descriptif qu'analytique. Cette défaillance est la conséquence logique des difficultés à poser avec précision les limites du burn-out (rapport de l'Académie de médecine sur le burn-out). 
 
-De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme Jean-Claude Delgenes estiment que le burn-out peut également toucher les parents ou les étudiants. 
-Alzheimer ? La j’ai pas compris 
+De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme Jean-Claude Delgenes estiment que le burn-out peut également toucher les étudiants. </p>
 
 
 <img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
