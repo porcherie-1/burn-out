@@ -51,7 +51,7 @@ Contrairement aux autres organismes, l'INRS (Institut National Recherche et Séc
 
 >"En France, le coût social du stress (dépenses de soin, celles liées à l'absentéisme, aux cessations d'activité et aux décès prématurés) a été estimé en 2007 entre 2 et 3 milliards d'euros" (étude INRS et Arts et Métiers ParisTech)
 
-<p align="justify">Le Centre de recherche sur les Risques et les Crises avance plusieurs chiffres clés sur le stress : il affecterait 28% des travailleurs (AESST, 2012) et 79% des managers européens (AESST, 2011). Le coût du stress est également estimé à **1 à 3,5% du PNB** selon une étude de Hoel, Sparks et Cooper, parue en 2001.</p>
+<p align="justify">Le Centre de recherche sur les Risques et les Crises avance plusieurs chiffres clés sur le stress : il affecterait 28% des travailleurs (AESST, 2012) et 79% des managers européens (AESST, 2011). Le coût du stress est également estimé à <strong>1 à 3,5% du PNB</strong> selon une étude de Hoel, Sparks et Cooper, parue en 2001.</p>
 
 <p align="justify">L'Académie de médecine estime quant à elle que les données ne sont pas suffisamment précises pour déterminer combien de personnes sont touchées par le burn-out aujourd'hui.</p>
 
