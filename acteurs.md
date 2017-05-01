@@ -2,7 +2,7 @@
 
 ## Muriel Barbé 
 
-## Jean-Claude Delgenes, directeur général du cabinet Technologia
+## Jean-Claude Delgenes
 
 <p align="justify">Directeur général du cabinet Technologia, Jean-Claude Delgenes a fondé le cabinet en 1989 avec la volonté d’en faire un cabinet anthropocentré ayant pour but de favoriser l’épanouissement au travail. L’étude de son cabinet sur l’épuisement professionnel concluant que 3,2 millions de personnes en France se trouvaient en situation de travail excessif et compulsif et donc en danger d’épuisement professionnel a lancé le débat sur le burn-out et sur la reconnaissance de celui-ci. Jean-Claude Delgenes et son cabinet sont pour la reconnaissance de l’épuisement professionnel en tant que maladie professionnelle. Cette reconnaissance permettrait selon lui de favoriser la prévention mais aussi d’avoir de véritables statistiques. De plus, la reconnaissance répondrait également à un impératif financier pour les salariés en arrêt mais également pour les assureurs.</p>
 
