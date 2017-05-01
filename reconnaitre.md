@@ -25,7 +25,7 @@ CARRE BIO
 
 <p align="justify">L’enjeu derrière cette question est donc aussi de savoir quel est le critère de définition retenu. On a un objet, le burn-out, qui est qualifié de « médical » (étant désigné comme une « maladie », un « syndrome », un « trouble psychosocial ») sans pour autant que le critère de définition retenue soit le critère médical. Certains acteurs définissent ainsi le burn-out autant par ses causes que par ses conséquences.</p>
 
-
+<br>
 
 ## Mesurer le burn-out
 
@@ -63,7 +63,7 @@ Contrairement aux autres organismes, l'INRS (Institut National Recherche et Séc
  </p>
 
 <img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
-
+<br>
 
 ## Construction sociale du burn-out 
 
@@ -83,7 +83,7 @@ Contrairement aux autres organismes, l'INRS (Institut National Recherche et Séc
 
 <p align="justify"> Même si le burn-out est une construction sociale qui dépend de la gestion collective du terme par un groupe, il ne s’agit en aucun cas de minimiser le mal-être. </p> 
 
-<p align="justify"> Le burn-out peut être un instrument mobilisé par différents acteurs. D’un côté, le risque de reconnaître le burn-out comme un trouble spécifique serait d’accroître considérablement le nombre de personnes touchées. L’<strong>auto-diagnostic de burn-out</strong> pourrait être une entrave à sa reconnaissance puisque tous les salariés s’auto-définiraient comme étant touchés par cette forme de souffrance, d’autant plus s’il est perçu plus favorablement que d’autres troubles comme la dépression.La performativité liée à la reconaissance du burn-out comme une maladie est à prendre en compte pour comprendre l'étendue des débats. </p> 
+<p align="justify"> Le burn-out peut être un instrument mobilisé par différents acteurs. D’un côté, le risque de reconnaître le burn-out comme un trouble spécifique serait d’accroître considérablement le nombre de personnes touchées. L’ <strong>auto-diagnostic de burn-out</strong> pourrait être une entrave à sa reconnaissance puisque tous les salariés s’auto-définiraient comme étant touchés par cette forme de souffrance, d’autant plus s’il est perçu plus favorablement que d’autres troubles comme la dépression.La performativité liée à la reconaissance du burn-out comme une maladie est à prendre en compte pour comprendre l'étendue des débats. </p> 
 <p align="justify"> De l’autre, Patrick Légeron pense qu’on pourrait arriver à une <strong>psychologisation excessive</strong> du burn-out. Le sociologue Pascal Cathébras (1991) développe l’idée que comme la neurasthénie ou le “syndrome des yuppies” (ou syndrome de fatigue chronique), le burn-out serait une nouvelle invention qui vise uniquement à éviter la psychologisation de la souffrance et éviter d’accuser les gens. Or, d’autres causes sont invoquées dans le burn-out comme l’environnement de travail et l’organisation des entreprises. </p> 
 
  
