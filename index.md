@@ -25,7 +25,7 @@ La première mention du concept d’épuisement est faite par le psychiatre fran
 <p align="justify">Le burn-out ne fait actuellement pas l'objet d'un diagnostic officiel dans les classifications nosographiques internationales. Plus de 130 manifestations du burn-out ont pu être toutefois identifiées par des études tentant d'objectiver ce syndrome, mais la grande variabilité de ces symptômes ne permet pas d'établir une entité clinique spécifique ni de quantifier sa prévalence, qui s'étendrait à des dizaines, voire centaines, de milliers de personnes avec des effets brutaux et durables. 
 </p>
 
-<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding 4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 <strong>Une symptomatologie du burn-out:</strong><br>  
 <p align="justify">- Manifestations <strong>émotionnelles</strong>: perte de contrôle, peurs irréprésibles, attitude apathique, dépressivité, perte des valeurs et de l'empathie, perte de sens généralisée  <br>
