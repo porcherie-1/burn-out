@@ -1,14 +1,14 @@
 # Prévenir
 
 <p align="justify"> Que permet le burn-out en matière de prévention de la souffrance au travail ? 
-On peut tout d'abord préciser les 3 types de prévention reconnus par l'OMS, que nous a précisées <a href="https://controverses.github.io/burn-out/acteurs#muriel-barb" target="_blank">Muriel Barbé</a> : <br>
-- prévention primaire: identifier et éliminer le danger, soit anticiper tout épuisement professionnel éventuel pour qu'il ne se produise pas parmi les salariés (aspect matériel du danger) <br> 
+On peut tout d'abord préciser les 3 types de prévention reconnus par l'OMS, que nous a précisées Muriel Barbé : <br>
+- prévention primaire: identifier et éliminer le danger, soit anticiper en amont tout épuisement professionnel éventuel auprès des salariés (aspect matériel du danger) <br> 
 - prévention secondaire: gérer les risques, étant donné que le danger ne peut pas forcément vraiment être éliminé (aspect humain et relationnel du danger) <br> 
-- prévention tertiaire: accompagner, soit aider les victimes d'épuisement professionnel à se réinsérer socialement et professionnellement. La prévention tertiaire doit avoir un effet rétro-actif sur les préventions primaire et secondaire. <br> 
-Il apparaît alors que prévention tertiaire et réparation - qui serait favorisée par une reconnaissance du burn-out en tant que maladie professionnelle - sont intimement liées. En effet, on commence parfois à prévenir l'épuisement professionnel après qu'un cas ait été observé dans l'entreprise. <br> 
-Pour autant, la prévention peut être entreprise sans qu'il y n'y ait reconnaissance du burn-out en tant que maladie professionnelle. L'épuisement professionnel existe, donc sa prévention peut être développée et doit permettre la prévention de la souffrance au travail en général, dans la mesure où cette prévention est systémique. <br> 
-Par ailleurs, réparation - qui serait favorisée par une intégration dans les tableaux de maladies professionnelles - et prévention restent deux terrains d'action intimement liés. En effet, une entreprise commence généralement à prévenir après qu'un cas de souffrance au travail ait été observé, pour mieux protéger les autres salariés. <br> 
-Enfin, le but de la prévention de la souffrance au travail doit être d'une part de l'éliminer, d'autre part de développer un état de bien-être au travail pour les salariés. </p> 
+- prévention tertiaire: accompagner, soit aider les victimes d'épuisement professionnel à se réinsérer socialement et professionnellement. La prévention tertiaire doit avoir un effet rétroactif sur les préventions primaire et secondaire. <br> 
+Il apparaît alors que prévention tertiaire et réparation - qui serait favorisée par une reconnaissance du burn-out en tant que maladie professionnelle - sont intimement liées. En effet, une entreprise ou un service public s'intéressent souvent à la problématique de l'épuisement professionnel après qu'un cas ait été observé. <br> 
+Pour autant, la prévention peut être entreprise sans qu'il y n'y ait reconnaissance du burn-out en tant que maladie professionnelle. C'est d'ailleurs ce que soutiennent la plupart des personnes interrogées, pour lesquelles la question de la reconnaissance du burn-out en tant que maladie professionnelle est annexe. L'épuisement professionnel existe, donc sa prévention peut déjà être développée sans sa reconnaissance. Abordée de façon systémique, elle doit favoriser une prévention de la souffrance au travail dans sa globalité. Par ailleurs, les politiques de prévention doivent d'une part éliminer et éviter l'épuisement professionnel, mais elle doivent avoir comme perspective un état solide de bien-être au travail du salarié. </p> 
+
+MODIF EVENTUELLE: à la fin de ce paragraphe, pour dire que la prévention du burn-out suit une approche systémique, je voulais dire que selon Muriel Barbé, il s'agit du "bout du bout du bout de la souffrance du travail" et qu'il y a l'expression de plein de RPS en avant qu'il faut aussi traiter: donc je comptais en parler là, en disant que si on cherche à prévenir le burn-out, on cherche nécessairement à prévenir les RPS, d'où réponse positive à la problématique. Mais la citation a déjà été utilisée dans "reconnaître" donc vous la préférez pour quelle partie ?
 
 
 ## Organisation du travail 
