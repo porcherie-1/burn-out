@@ -2,6 +2,21 @@
 
 
 ## Reconnaissance comme maladie professionnelle
+
+Lors de la discussion du projet de loi Rebsamen en 2015 et du projet de loi El Khomri en 2016, des amendements, soutenus par de nombreux députés, ont proposé de faire du burn-out une maladie professionnelle et de l'intégrer dans le dispositif existant de réparation des risques professionnels. La proposition n'a pas été retenue mais a continué d'être défendue par des députés, notamment socialistes, portée par Benoit Hamon jusque dans son programme présidentiel, mais aussi par d'autres partis, à l'image de Jean-Frédéric Poisson, député LR. Notons que cette revendication s'étend au-délà de la sphère politique: dès 2014, le cabinet Technologia, cabinet d’expertise agréé par le ministère du Travail, a lancé un appel depuis 2014 à l’ajout de l’épuisement professionnel au tableau des maladies professionnels qui compte aujourd'hui presque 11000 signataires, dont plusieurs syndicats qui ont participé à son élaboration (Force Ouvrière, CFE-CGC, SNALC-FGAF, Coordination rurale, SNJ). Le cabinet a été suivi dans sa démarche par un groupe de médecins du travail de Touraine mené par Bernard Morat, s'inquiétant de "l'explosion des cas de burn-out". Ils ont lancé un appel, dans l'hebdomadaire Marianne, s'adressant aux ministres de la Santé et du Travail et aux députés. De 81 signataires au départ, ils sont à ce jour 248.<br>
+Ce sont ces revendications successives qui ont suscité un intérêt du législateur pour le burn-out et notamment l'ouverture d'une mission parlementaire. La demande de reconnaissance en maladie professionnelle est donc en quelque sorte un point de départ à la réflexion, qui pose la question de la réparation, cruciale pour les victimes de burn-out qui subissent des séquelles durables.
+
+### Maladies professionnelles et accidents du travail en France 
+
+### Un cadre juridique suffisant pour la prise en charge du burn-out ? 
+
+### Une reconnaissance difficilement envisageable en l'état actuel 
+
+
+
+
+
+
 exemple de ceux qui demandent ça 
 système de reconnaissance maladie professionnelle accidents du travail
 encadré procédure complémentaire
