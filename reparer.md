@@ -104,8 +104,8 @@ En effet, imputer un cas de RPS à l’organisation de l’entreprise et du trav
 <p align="justify">Depuis quelques temps, on observe un changement de position de la Cour de Cassation qui était auparavant plus ouverte aux revendications salariales et syndicales. En effet, avec l’arrêt Air France du 25 novembre 2015, l’obligation de sécurité de résultat est devenue une obligation de sécurité de moyens, comme le rappelle l’article L.4121 du code du travail. Le droit du travailleur est associé à un devoir de l’employeur vis-à-vis de l’employé.</p>
 
 
->Article L4121-1  
->L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.
+<blockquote>Article L4121-1 <br>
+L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.</blockquote>
 
 Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail. 
 
