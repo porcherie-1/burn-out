@@ -37,7 +37,6 @@ Eva
 
 - Accident du travail (JPV)
 Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
-
 <br>
 
 <h2>A qui attribuer la reponsabilité d'un burn-out ?</h2> 
