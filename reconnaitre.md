@@ -12,7 +12,7 @@ Le burn-out, un nouveau diagnostic ou une évolution linguistique ?
 <div id="fich1"> 
 <object data="rapport-burnout.pdf" type="text/html" codetype="application/pdf" ></object> 
 </div> 
-
+<A HREF="rapport-burnout.pdf" target="_blank">Rapport</A>
  
 <p align="justify">Le burn-out se différencie du stress en cela qu’il est également caractérisé par une attitude et des comportements négatifs envers les collègues, les clients ou les patrons, tandis que le stress n’induit pas forcément d’attitudes négatives envers autrui. Cette dernière caractéristique renvoie au contexte premier de conceptualisation du burn-out : les infirmières qui « déshumanisaient » leurs patients. Le conflit de valeurs est également fréquemment invoqué dans les facteurs déclencheurs d’un burn-out. On parle à cet égard d’ “emotional exhaustion” ou de “compassion fatigue”.</p>
 
