@@ -29,6 +29,8 @@ http://sudeducation37.fr/IMG/pdf/article_548407.pdf
 http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487
 - Plan santé au travail, 2016-2020, _Ministère du Travail, de l’Emploi, de la Formation professionnelle et du Dialogue social_
 http://travail-emploi.gouv.fr/IMG/pdf/pst3.pdf
+- Article 55 du Code du Travail relatif au droit à la déconnexion (amendement à la loi L2242-8), loi du 8 août 2016
+https://www.legifrance.gouv.fr/eli/loi/2016/8/8/ETSX1604461L/jo/article_55
 
 ## Domaine médical
 - Michel Delbrouk, "Burn-out et médecine", _Cahiers de psychologie clinique_, 2007 
