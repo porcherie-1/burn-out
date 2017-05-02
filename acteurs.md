@@ -1,16 +1,13 @@
 # Fiches Acteurs 
 
-## Muriel Barbé 
-
 ## Jean-Claude Delgenes
 
 <p align="justify">Directeur général du cabinet Technologia, Jean-Claude Delgenes a fondé le cabinet en 1989 avec la volonté d’en faire un cabinet anthropocentré ayant pour but de favoriser l’épanouissement au travail. L’étude de son cabinet sur l’épuisement professionnel concluant que 3,2 millions de personnes en France se trouvaient en situation de travail excessif et compulsif et donc en danger d’épuisement professionnel a lancé le débat sur le burn-out et sur la reconnaissance de celui-ci. Jean-Claude Delgenes et son cabinet sont pour la reconnaissance de l’épuisement professionnel en tant que maladie professionnelle. Cette reconnaissance permettrait selon lui de favoriser la prévention mais aussi d’avoir de véritables statistiques. De plus, la reconnaissance répondrait également à un impératif financier pour les salariés en arrêt mais également pour les assureurs.</p>
-
-## Caroline Guillotin
-
+ 
 ## Patrick Légeron
 
 ## Loïc Lerouge
+(juriste) 
 
 ## Marc Loriol
 <p align="justify">Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais au contraire, il devrait être considéré de manière plus profonde en favorisant "les formes organisationnelles et les relations sociales au travail" (prendre en compte l'isolement des salariés, créer des échanges autour du travail, organisation plus horizontale). Individualiser le burn-out n'est pas souhaitable car cela met plus de pression sur le salarié et le fait culpabiliser parce qu'il n'est pas parvenu à trouver un bon équilibre entre le travail et sa vie privée. </p> 
@@ -27,6 +24,6 @@
 
 
 ## Philippe Zawieja
-<p align="justify">Chercheur au CRC (Centre de recherche sur les Risques et les Crises) de MINES Paris-Tech et auteur d'un _Que sais-je ?_ sur le burn-out, il pense que le burn-out n'est pas ni une maladie ni une pathologie au sens médical du terme car on ne connaît pas la ou les causes du burn-out, on ne possède pas de tableau clinique ou de moyens thérapeutiques afin de le soigner. Il considère le burn-out comme un épuisement psychique, une forme de souffrance. La médicalisation de cette forme de souffrance n'est alors pas souhaitable puisque, selon lui, l'entreprise et le travail ne sont pas les seuls responsables du burn-out. Le burn-out n'est pas récent car de tout temps, on peut distinguer une "fatigue d'époque".</p>  
+<p align="justify">Chercheur au CRC (Centre de recherche sur les Risques et les Crises) de MINES Paris-Tech et auteur d'un <i>Que sais-je ? </i> sur le burn-out, il pense que le burn-out n'est pas ni une maladie ni une pathologie au sens médical du terme car on ne connaît pas la ou les causes du burn-out, on ne possède pas de tableau clinique ou de moyens thérapeutiques afin de le soigner. Il considère le burn-out comme un épuisement psychique, une forme de souffrance. La médicalisation de cette forme de souffrance n'est alors pas souhaitable puisque, selon lui, l'entreprise et le travail ne sont pas les seuls responsables du burn-out. Le burn-out n'est pas récent car de tout temps, on peut distinguer une "fatigue d'époque".</p>   
 
 
