@@ -27,13 +27,18 @@ La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr
 
 <p align="justify">Plusieurs recours sont possibles pour les salariés victimes de burn-out, permettant une meilleure indemnisation et une meilleure prise en charge que pour simple maladie. Les associations se font notamment le relai de ces démarches, conseillant les victimes sur la marche à suivre pour obtenir réparation (voir à titre d'exemple AFBO). Cependant, bien que croissant, le nombre de cas de burn-out reconnus comme maladie professionnelle reste faible (500 cas d’épuisement professionnel reconnus en 2015) et la réparation de la souffrance au travail est donc aujourd'hui davantage effective au travers d'autres affections psychiques tels que la dépression, les troubles anxieux et le stress post-traumatique, bien que la reconnaissance des pathologies psychiques reste faible dans toutes ces catégories.</p><br>
 
-- Insuffisance des moyens actuels de prise en charge:<br>
+- Insuffisance des moyens actuels de prise en charge:<br>  
 
-> "Ils font tout pour nous décourager" explique Michelle Mailfait, qui se bat pour la reconnaissance du suicide de son mari en accident du travail  
 
-A)	parcours du combattant, rare réussite, + difficultés d’objectivation et d’incapacité permanente (propositions de réduire) + problèmes place des psychiatres et médecins qui connaissent pas le travail + JPV dit accident du travail car pas faute de l'employeur mais pas suffisant non plus ni un élément soudain ni une maladie causée que par le travail (multifactoriel)
+>"Ils font tout pour nous décourager" explique Michelle Mailfait, qui se bat pour la reconnaissance du suicide de son mari en accident du travail  
+
+
+A)	parcours du combattant, rare réussite, + difficultés d’objectivation et d’incapacité permanente (propositions de réduire) + problèmes place des psychiatres et médecins qui connaissent pas le travail + JPV dit accident du travail car pas faute de l'employeur mais pas suffisant non plus ni un élément soudain ni une maladie causée que par le travail (multifactoriel)  
+
 
 - Apports d'une reconnaissance en tant que maladie professionnelle:<br>
+
+
 facilite, permet la prévention, permet une vraie prise en charge (traités pour dépression, etc autres trucs) puisque ça veut dire présomption immédiate d’imputabilité donc pas à la charge du salarié, plus on fait payer les entreprises et pas la sécu -> d’où une opposition logique, incitations financières à faire de la prévention 
 
 
