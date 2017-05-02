@@ -5,15 +5,20 @@
 <p align="justify">Directeur général du cabinet Technologia, Jean-Claude Delgenes a fondé le cabinet en 1989 avec la volonté d’en faire un cabinet anthropocentré ayant pour but de favoriser l’épanouissement au travail. L’étude de son cabinet sur l’épuisement professionnel concluant que 3,2 millions de personnes en France se trouvaient en situation de travail excessif et compulsif et donc en danger d’épuisement professionnel a lancé le débat sur le burn-out et sur la reconnaissance de celui-ci. Jean-Claude Delgenes et son cabinet sont pour la reconnaissance de l’épuisement professionnel en tant que maladie professionnelle. Cette reconnaissance permettrait selon lui de favoriser la prévention mais aussi d’avoir de véritables statistiques. De plus, la reconnaissance répondrait également à un impératif financier pour les salariés en arrêt mais également pour les assureurs.</p>
  
 ## Patrick Légeron
+Eva
 
 ## Loïc Lerouge
-(juriste) 
+(juriste) --> ? 
 
 ## Marc Loriol
 <p align="justify">Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais au contraire, il devrait être considéré de manière plus profonde en favorisant "les formes organisationnelles et les relations sociales au travail" (prendre en compte l'isolement des salariés, créer des échanges autour du travail, organisation plus horizontale). Individualiser le burn-out n'est pas souhaitable car cela met plus de pression sur le salarié et le fait culpabiliser parce qu'il n'est pas parvenu à trouver un bon équilibre entre le travail et sa vie privée. </p> 
 
 
 ## Max Masse
+(Laura ??? Ou on l'enlève)
+
+# Bernard Morat 
+(médecin du travail Eva)
 
 ## Gérard Sebaoun
 <p align="justify">Député PS de la quatrième circonscription du Val d'Oise depuis 2012, il est le rapporteur du rapport d'information de l'Assemblée nationale sur l'épuisement professionnel, publié en février 2017. Nous avons pu le rencontrer afin d'avoir de plus amples informations sur son rapport. Tout d'abord, il pense qu'il n'existe aucune définition du burn-out ni de prédisposition biologique. Il affirme que : "le burn-out naît d'une rencontre entre un individu et une situation". Le burn-out est un "engrenage infernal", "un véritable drame humain". Selon lui, l'organisation du travail est responsable de l'émergence de burn-out. Il faudrait accorder des espaces de liberté aux salariés,  accentuer la formation des managers et surtout parvenir à modifier le mode d'organisation du travail au sein des entreprises (vers les entreprises "libérées"). Il a précisé que le but du rapport n'est pas d'inscrire le burn-out au tableau des maladies professionnelles (comme le souhaite Benoît Hamon) mais de donner des pistes de réflexion sur le burn-out. </p>
