@@ -1,13 +1,13 @@
 # Prévenir
 
 <p align="justify"> Que permet le burn-out en matière de prévention de la souffrance au travail ? 
-On peut tout d'abord préciser les 3 types de prévention reconnus par l'OMS, que nous a précisées Muriel Barbé : 
-- prévention primaire: identifier et éliminer le danger, soit anticiper tout épuisement professionnel éventuel pour qu'il ne se produise pas parmi les salariés (aspect matériel du danger)
-- prévention secondaire: gérer les risques, étant donné que le danger ne peut pas forcément vraiment être éliminé (aspect humain et relationnel du danger)
-- prévention tertiaire: accompagner, soit aider les victimes d'épuisement professionnel à se réinsérer socialement et professionnellement. La prévention tertiaire doit avoir un effet rétro-actif sur les préventions primaire et secondaire.  
-Il apparaît alors que prévention tertiaire et réparation - qui serait favorisée par une reconnaissance du burn-out en tant que maladie professionnelle - sont intimement liées. En effet, on commence parfois à prévenir l'épuisement professionnel après qu'un cas ait été observé dans l'entreprise. 
-Pour autant, la prévention peut être entreprise sans qu'il y n'y ait reconnaissance du burn-out en tant que maladie professionnelle. L'épuisement professionnel existe, donc sa prévention peut être développée et doit permettre la prévention de la souffrance au travail en général, dans la mesure où cette prévention est systémique. 
-Par ailleurs, réparation - qui serait favorisée par une intégration dans les tableaux de maladies professionnelles - et prévention restent deux terrains d'action intimement liés. Etant donné que l'on commence souvent à prévenir après qu'un cas de souffrance au travail ait été fait, pour sauver les prochains. 
+On peut tout d'abord préciser les 3 types de prévention reconnus par l'OMS, que nous a précisées Muriel Barbé : <br>
+- prévention primaire: identifier et éliminer le danger, soit anticiper tout épuisement professionnel éventuel pour qu'il ne se produise pas parmi les salariés (aspect matériel du danger) <br> 
+- prévention secondaire: gérer les risques, étant donné que le danger ne peut pas forcément vraiment être éliminé (aspect humain et relationnel du danger) <br> 
+- prévention tertiaire: accompagner, soit aider les victimes d'épuisement professionnel à se réinsérer socialement et professionnellement. La prévention tertiaire doit avoir un effet rétro-actif sur les préventions primaire et secondaire. <br> 
+Il apparaît alors que prévention tertiaire et réparation - qui serait favorisée par une reconnaissance du burn-out en tant que maladie professionnelle - sont intimement liées. En effet, on commence parfois à prévenir l'épuisement professionnel après qu'un cas ait été observé dans l'entreprise. <br> 
+Pour autant, la prévention peut être entreprise sans qu'il y n'y ait reconnaissance du burn-out en tant que maladie professionnelle. L'épuisement professionnel existe, donc sa prévention peut être développée et doit permettre la prévention de la souffrance au travail en général, dans la mesure où cette prévention est systémique. <br> 
+Par ailleurs, réparation - qui serait favorisée par une intégration dans les tableaux de maladies professionnelles - et prévention restent deux terrains d'action intimement liés. Etant donné que l'on commence souvent à prévenir après qu'un cas de souffrance au travail ait été fait, pour sauver les prochains. <br> 
 Enfin, le but de la prévention de la souffrance au travail doit être d'une part de l'éliminer, d'autre part de développer un état de bien-être au travail pour les salariés. </p> 
 
 
