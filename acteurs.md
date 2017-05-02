@@ -1,7 +1,8 @@
 # Fiches Acteurs 
 
 ## Associations
-<p align="justify">Des associations ont été créées à l'image de l'Association France Burn-Out créée en 2014 dont le but est de défendre les "droits et intérêts des personnes touchées par l'épuisement professionnel". Ces associations appellent à la reconnaissance sociale de l'épuisement professionnel. Elles jouent également un rôle d'informateur par exemple en conseillant et aidant les personnes touchées dans leurs démarches administratives. Nous ne sommes pas parvenues à rencontrer ces associations qui précisent souvent agir seulement auprès des salariés touchés.</p>
+<p align="justify">Des associations ont été créées à l'image de l'Association France Burn-Out créée en 2014 dont le but est de défendre les "droits et intérêts des personnes touchées par l'épuisement professionnel". Ces associations appellent surtout à la reconnaissance sociale de l'épuisement professionnel en refusant une banalisation excessive qui diminuerait une réalité spécifique. Elles jouent également un rôle d'informateur par exemple en conseillant et aidant les personnes touchées dans leurs démarches administratives. Nous ne sommes pas parvenues à rencontrer ces associations qui précisent souvent agir seulement auprès des salariés touchés, mais elles ont été auditionnées dans le cadre de la mission parlementaire (AFBO, Stop Burn-Out). La mission parlementaire a également auditionné des associations non spécialisées sur le burn-out (ASDPro, France Prévention, France Dépression) qui témoignent d'une approche récente et complémentaire par rapport à ce qu'ils traitaient jusque là (dépression, troubles bipolaires).
+<a href="http://videos.assemblee-nationale.fr/video.4143274_577e411737e43.syndrome-d-epuisement-professionnel--table-ronde-avec-des-associations--m-patrick-legeron-psychi-7-juillet-2016" target="_blank">Plan santé au travail 3, 2016-2020</a></p>
 
 ## Patrick Légeron
 Eva
