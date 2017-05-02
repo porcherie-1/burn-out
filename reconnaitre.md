@@ -9,7 +9,7 @@ Le burn-out, un nouveau diagnostic ou une évolution linguistique ?
 
 <p align="justify">C’est la position la plus répandue concernant le burn-out. Un rapport édité par le ministère du travail, l’INRS et l’ANACT présente dans une partie intitulée « les spécificités du burn-out » une définition du burn-out par rapport à d’autres troubles psychosociaux que sont, le stress, l’addiction au travail, la fatigue chronique et la dépression. Il faut noter la différenciation qui est faite entre le burn-out et la dépression. La dépression semble toucher tous les domaines, c’est-à-dire  toucher autant les malades dans  leur vie professionnelle que leur vie quotidienne et correspondrait à un « état » de l’individu, alors que le burn-out renvoie essentiellement à la vie professionnelle, étant associé à un phénomène de dépréciation subjectif dans le travail. Il y a cependant l’idée que le burn-out peut s’aggraver en dépression, ce qui complexifie davantage le positionnement du burn-out au sein des RPS.</p>
 
-<A HREF="rapport-burnout.pdf" target="_blank">Rapport</A>
+<A HREF="rapport-burnout.pdf" target="_blank">Rapport de l'INRS et de l'ANACT</A>
  
 <p align="justify">Le burn-out se différencie du stress en cela qu’il est également caractérisé par une attitude et des comportements négatifs envers les collègues, les clients ou les patrons, tandis que le stress n’induit pas forcément d’attitudes négatives envers autrui. Cette dernière caractéristique renvoie au contexte premier de conceptualisation du burn-out : les infirmières qui « déshumanisaient » leurs patients. Le conflit de valeurs est également fréquemment invoqué dans les facteurs déclencheurs d’un burn-out. On parle à cet égard d’ “emotional exhaustion” ou de “compassion fatigue”.</p>
 
