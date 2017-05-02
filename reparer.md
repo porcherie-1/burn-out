@@ -8,11 +8,19 @@ Ce sont ces revendications successives qui ont suscité un intérêt du législa
 
 ### Maladies professionnelles et accidents du travail en France 
 
-La définition d’une maladie professionnelle est imprécise : elle est la conséquence directe de l’exposition d’un travailleur à un risque physique, chimique, biologique, ou résulte des conditions habituelles dans lesquelles il exerce son activité professionnelle.
-La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr/mp/cgi-bin/mppage.pl?state=1&acc=5&gs=&rgm=2" target="_blank">tableaux</a> pour les reconnaître. Chaque tableau indique les conditions nécessaires et suffisantes pour que la maladie soit reconnue par présomption d’origine (ou d'imputabilité). Une maladie est reconnue comme maladie professionnelle lorsqu’elle est mentionnée dans un tableau et remplit les conditions indiquées. Cela permet une prise en charge intégrale, assurée par la branche "Accidents du travail - Maladies professionnelles" (AT/MP) de la Sécurité sociale, financée à 97% par les cotisations des employeurs.<br>Or, aucune maladie psychique, y compris le burn-out, n’appartiennent à un tableau. L'artice L. 461-1 du Code de la Sécurité Sociale prévoit alors un système dit complémentaire de reconnaissance, et par là d’indemnisation, au cas par cas.
+<p align="justify">La définition d’une maladie professionnelle est imprécise : elle est la conséquence directe de l’exposition d’un travailleur à un risque physique, chimique, biologique, ou résulte des conditions habituelles dans lesquelles il exerce son activité professionnelle.
+La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr/mp/cgi-bin/mppage.pl?state=1&acc=5&gs=&rgm=2" target="_blank">tableaux</a> pour les reconnaître. Chaque tableau indique les conditions nécessaires et suffisantes pour que la maladie soit reconnue par présomption d’origine (ou d'imputabilité). Une maladie est reconnue comme maladie professionnelle lorsqu’elle est mentionnée dans un tableau et remplit les conditions indiquées. Cela permet une prise en charge intégrale, assurée par la branche "Accidents du travail - Maladies professionnelles" (AT/MP) de la Sécurité sociale, financée à 97% par les cotisations des employeurs.<br>Or, aucune maladie psychique, y compris le burn-out, n’appartiennent à un tableau. L'artice L. 461-1 du Code de la Sécurité Sociale prévoit alors un système dit complémentaire de reconnaissance, et par là d’indemnisation, au cas par cas.<p>
+
+
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<strong>Le système complémentaire de reconnaissance des maladies professionnelles:</strong><br><p align="justify">Malgré les intérêts que présentait le système des tableaux, il est apparu nécessaire d'instaurer un système complémentaire de réparation des maladies professionnelles. En effet, ce système présentatait une double limite: se trouvaient exclues du régime de réparation des maladies professionnelles, d'une part, les maladies non inscrites dans l'un des tableaux et d'autre part, celles pour lesquelles toutes les conditions médico-légales définies dans le tableau n'étaient pas remplies. La loi n°93-121 du 27 janvier 1993 portant diverses mesures d'ordre social, a institué une nouvelle procédure de reconnaissance du caractère professionnel.<br> Cette loi crée les comités régionaux de reconnaissance des maladies professionnelles (CRRMP), aujourd'hui au nombre de 16. Un CRRMP est saisi par une caisse primaire d'assurance maladie et doit justifier ou non d'un "lien direct et essentiel" entre la pathologie présentée par la victime et son activité professionnelles, ainsi que d'une incapacité permanente d'au moins 25%. Le CRRMP est composé de trois experts: le médecin-conseil régional, le médecin inspecteur régional du travail et un professeur des universités practiciens hospitaliers. Ses décisions s'imposent aux caisses de sécurité sociale. La procédure a été de plus facilitée depuis un décret du 7 juin 2016 qui inscrit au code de la sécurité sociale que les pathologies psychiques peuvent être reconnues comme maladies d’origine professionnelle, avec l’expertise d’un médecin psychiatre dans le comité de reconnaissance. </p>
+</div>
+</div>
+
 
 ### Un cadre juridique suffisant pour la prise en charge du burn-out ? 
-
+Une reconnaissance est donc possible, d'ialleurs les assos expliquent, mais très faible nombre, l
 ### Une reconnaissance difficilement envisageable en l'état actuel 
 
 exemple de ceux qui demandent ça 
