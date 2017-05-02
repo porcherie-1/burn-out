@@ -46,10 +46,9 @@ Ce cas où les salariés s'imposent un télétravail à eux-mêmes après leur t
 <div style="padding:3px; background-color:#e0e0e0;">
 
 <p align="justify">
-Proposition n°1: Mettre en place un centre national de référence sur la santé psychique au travail chargé de développer la veille sanitaire, l'épidémiologie et la prévention. 
-Proposition n°2: Confier au centre national de référence l'élaboration d'un questionnaire francophone, sur le modèle du Copenhagen Burnout Inventory, comme outil d'évaluation et de prévention destiné aux médecins de soins et aux médecins du travail.
-Proposition n°3: Renforcer le maillage du territoire par un réseau de consultations multidisciplinaires consacrées à la souffrance au travail, intégrant les consultations existantes, en lien avec le centre national de référence. 
-Proposition n°4: Mettre en place un site Internet et une application associée s'adressant aux professionnels et au grand public destinés à faciliter la compréhension des maladies psychiques liées au travail et leur prise en charge, à trouver les coordonnées du service de santé au travail compétent et d'un centre de consultation. </i> </p> 
+Proposition n°1: Mettre en place un centre national de référence sur la santé psychique au travail chargé de développer la veille sanitaire, l'épidémiologie et la prévention. <br>
+Proposition n°2: Confier au centre national de référence l'élaboration d'un questionnaire francophone, sur le modèle du Copenhagen Burnout Inventory, comme outil d'évaluation et de prévention destiné aux médecins de soins et aux médecins du travail. <br>
+Proposition n°3: Renforcer le maillage du territoire par un réseau de consultations multidisciplinaires consacrées à la souffrance au travail, intégrant les consultations existantes, en lien avec le centre national de référence. <br>
 </div> 
 </div>
 <br> 
@@ -57,9 +56,3 @@ Proposition n°4: Mettre en place un site Internet et une application associée 
 <p align="justify"> <a href="https://controverses.github.io/burn-out/acteurs#jean-paul-vouiller" target="_blank"> Jean-Paul Vouiller </a> propose un système de malus-bonus, pour lequel on récompenserait financièrement les entreprises prévenant l'épuisement professionnel, tandis Caroline Guillotin préfèrerait le réallouement d'un budget pour réorganiser le travail dans l'entreprise, plutôt que l'extraction d'un budget supplémentaire qui aurait effet de sanction pour des entreprises au budget serré. Selon elle, les 3 milliards d'euros, investis chaque année dans la formation par les entreprises en France, devraient être alloués plus précisément à la formation pour une réorganisation du travail.
 
 Par ailleurs, Muriel Barbé rappelle que la prévention primaire se fait nécessairement avec un temps de retard. Nous ne pouvons contrôler ni donc anticiper ce qu'implique la révolution numérique sur notre travail. Il est donc difficile d'inciter à mettre en place des politiques de prévention, qui seront peut-être rapidement obsolètes. </p> 
-
-
-CITER PROPOSITIONS DU RAPPORT DE L'AN
-
-
-
