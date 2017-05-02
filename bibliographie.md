@@ -10,6 +10,8 @@
 - Association France Burn out : http://asso-franceburnout.fr/ 
 - Association Stop Burnout : http://assostopburnout.wixsite.com/asbo
 - Association France Prévention : http://www.associationfranceprevention.org/ 
+- Association ASDPro: http://asdpro.fr/
+- Association France Dépression: http://france-depression.org/
 
 ## Burn-out et syndicats 
 - "Les délégués sociaux au Québec : l'émergence d'un nouveau rôle pour l'acteur syndical ?", _Délégué Social en Entreprise (DSE)_, 17 février 2016 
