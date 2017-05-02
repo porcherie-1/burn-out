@@ -24,7 +24,6 @@ https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=F84E25EA7FA36E0B
 Pour autant, le télétravail a en parallèle aussi été pensé comme mode d'organisation du travail. Le télétravail donne la possibilité au salarié de travailler chez lui et non plus au bureau. Si Muriel Barbé indique que le salarié travaille davantage chez lui qu'au bureau, ou encore si Caroline Guillotin envisage cette mesure comme une alternative efficace les jours de pic de pollution par exemple, ce mode d'organisation pensé comme un progrès a son revers. Il floute en fait la frontière entre vie professionnelle et vie privée et peut également conduire à un épuisement professionnel. <br>
 De la même façon, les open-spaces, parfois considérés comme un mode d'organisation révolutionnaire en ce qu'il favorise une meilleure communication entre les salariés et aplanit les relations hiérarchiques pour la réalisation d'un projet, doivent être pensés avec prudence. Muriel Barbé donne ainsi l'exemple de services publics, où les agents administratifs ont regretté après coup d'avoir décloisonné leurs bureaux, à cause du bruit et de la perte d'intimité.   </p> 
 
-MODIF: incorporer article 55 Legifrance sur droit à la déconnexion
 
 ### Former au management 
 
