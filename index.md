@@ -5,7 +5,7 @@
 
 <p align="justify">
 Xavier* avait dix ans d’expérience dans son entreprise d’informatique quand une réorganisation a modifié ses conditions de travail. Cette réorganisation a amené une surcharge de travail, une discrimination à son égard de la part de sa nouvelle hiérarchie, une perte d’autonomie et une situation d’isolement dans son nouvel environnement de travail. Il fait alors ce qu’il appelle un premier burn-out, et part pour une dizaine de jours d’arrêt de travail. Dans les deux années suivant ce premier burn-out, d’autres sources de stress professionnel apparaissent. Les ressources humaines de son entreprise finissent par lui conseiller d’arrêter de travailler et de consulter un médecin, Xavier souffre alors également de nombreux troubles physiques (bégaiement, tics, …). Il est en arrêt maladie longue durée depuis 2011 pour « burn-out ».<br> 
-*<i>Le nom de la personne a été modifiée à sa demande.</i> </p> 
+*<i>Le nom de la personne a été modifié à sa demande.</i> </p> 
 </div> 
 </div>
 <br> 
