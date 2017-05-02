@@ -77,6 +77,11 @@ http://invs.santepubliquefrance.fr//beh/2015/23/pdf/2015_23_2.pdf
 - "Prévenir le burn-out", Etude de la Fédération des Intervenants en Risques Psychosociaux (FIRPS), mars 2016
 http://firps.org/wp-content/uploads/2016/03/FIRPS_Livret-Burnout_SP.pdf
 
+## Organisation du travail 
+
+- APEC, "Les cadres conscients des avantages et des inconvénients du "tout connecté", 3 décembre 2014 
+https://cadres.apec.fr/Emploi/Observatoire-de-l-emploi/Les-etudes-Apec-par-thematique/Vie-en-entreprise/Les-cadres-conscients-des-avantages-et-des-inconvenients-du-tout-connecte 
+
 
 ## Ouvrages généraux 
 - DELGENES J-C, MARTINEAU-ARBES Agnès, MORAT Bernard, _Idées reçues sur le burn-out_, Le Cavalier Bleu, Collection "Idées reçues", Paris, 2017
