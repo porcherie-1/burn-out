@@ -12,6 +12,7 @@
 - Association France Prévention : http://www.associationfranceprevention.org/ 
 - Association ASDPro: http://asdpro.fr/
 - Association France Dépression: http://france-depression.org/
+- Blog SOS Burnout: http://sosburnout.fr/
 
 ## Burn-out et syndicats 
 - "Les délégués sociaux au Québec : l'émergence d'un nouveau rôle pour l'acteur syndical ?", _Délégué Social en Entreprise (DSE)_, 17 février 2016 
@@ -66,6 +67,8 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
+- Aurélie Delmas, "Non Benoît Hamon, il n'y a pas qu'en France qu'on ne reconnaît pas le burn-out", _Libération_, 11 janvier 2017 
+http://www.liberation.fr/desintox/2017/01/11/non-benoit-hamon-il-n-y-a-pas-qu-en-france-qu-on-ne-reconnait-pas-le-burn-out_1540216
 
 
 ## Etudes sur le burn-out 
