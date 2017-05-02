@@ -8,8 +8,7 @@ Xavier* avait dix ans d’expérience dans son entreprise d’informatique quand
 *<i>Le nom de la personne a été modifiée à sa demande.</i> </p> 
 </div> 
 </div>
-
-
+<br> 
 ## Comment aborder la souffrance au travail: l'avènement du burn-out  
 <p align="justify">Qu'elle réponde à un changement des environnements professionnels ou à une attention accrue portée à l'épanouissement au travail, la question de la <strong>souffrance au travail</strong> est devenue dans les sociétés modernes un enjeu central de santé publique dont l'opinion publique et les médias mais également les gouvernements se sont emparés depuis maintenant une trentaine d'années. En France, la prise de conscience, à la fin des années 2000, suite aux premiers cas de harcèlement moral et à une série de suicides dans de grandes entreprises françaises (France Télécom, Renault) a placé les "<strong>risques psychosociaux</strong>" (RPS) au coeur des débats, et des politiques publiques. L'amélioration de la qualité de vie au travail est désormais une "priorité nationale" (Marisol Touraine en 2016). Intégrés au langage officiel, les RPS désignent un ensemble de "risques pour la santé mentale, physique et sociale engendrés par les conditions d’emploi et les facteurs organisationnels et relationnels susceptibles d’interagir avec le fonctionnement mental » selon le rapport du collège d’expertise sur le suivi des RPS au travail de 2011, à la demande du Ministère du travail. Leur prévention occupe d'ailleurs la majeure partie du <a href="http://travail-emploi.gouv.fr/IMG/pdf/pst3.pdf" target="_blank">Plan santé au travail 3, 2016-2020</a>, qui annonce à ce sujet "<I>faire un focus sur le burnout</I>". </p>
 
