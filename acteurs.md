@@ -1,5 +1,8 @@
 # Fiches Acteurs 
- 
+
+## Associations
+<p align="justify">Des associations ont été créées à l'image de l'association France Burn-Out créée en 2014 dont le but est de défendre les "droits et intérêts des personnes touchées par l'épuisement professionnel". Ces associations appellent à la reconnaissance sociale de l'épuisement professionnel. Elles jouent également un rôle d'informateur par exemple en conseillant et aidant les personnes touchées dans leurs démarches administratives. Nous ne sommes pas parvenues à rencontrer ces associations qui précisent souvent agir seulement auprès des salariés.</p>
+
 ## Patrick Légeron
 Eva
 
