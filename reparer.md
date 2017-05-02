@@ -106,6 +106,7 @@ En effet, imputer un cas de RPS à l’organisation de l’entreprise et du trav
 
 <blockquote>Article L4121-1 <br>
 L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.</blockquote>
+<br>
 
 Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail. 
 
