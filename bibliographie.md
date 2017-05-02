@@ -69,7 +69,8 @@ http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/
 http://www.culturepub.fr/videos/pepsi-max-burnout/
 - Aurélie Delmas, "Non Benoît Hamon, il n'y a pas qu'en France qu'on ne reconnaît pas le burn-out", _Libération_, 11 janvier 2017 
 http://www.liberation.fr/desintox/2017/01/11/non-benoit-hamon-il-n-y-a-pas-qu-en-france-qu-on-ne-reconnait-pas-le-burn-out_1540216
-
+- Lettre ouverte "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", Miroir Social, 14 avril 2016
+http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel
 
 ## Etudes sur le burn-out 
 - Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
