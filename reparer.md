@@ -42,27 +42,9 @@ De plus, comme l'ajoute l'association SOS Burnout, "reconnaître le burn-out com
 
 
 <h3>Une reconnaissance difficilement envisageable en l'état actuel </h3>
-Rapport de l’assemblée : ni faisable dans l’immédiat, ni un but en soi 
--	Pb : pas de définitions, pas assez précis donc on pourrait tout mettre dedans, mais si trop précis ça permetterait pas de réparer bien les RPS en général -> ne serait peut être pas bénéfique à la souffrance au travail en général, risque d’une banalisation si on met dans la loi, les commissions seraient surchargées (rapport : doubler les effectifs pour améliorer le système complémentaire ?)
--	Pb factuel : après tout le monde va se dire touché et on pourra juste pas tout prendre en charge si on facilite la procédure complémentaire afin de refonder les procédures et les tableaux pour intégrer les maladies multi factorielles MONTEE EN PUISSANCE DU NOMBRE DE DEMANDES, VOIR rapp
--	Peut-on affirmer que c’est la faute de l’entreprise uniquement ? PAS UN BUT POUR TOUS LA RECONNAISSANCE EN MP 
+Gérard Sebaoun, en accord avec la conclusion du rapport de l'Assemblée nationale, nous a indiqué que la reconnaissance comme maladie professionnelle via un ajout aux tableaux n'était ni faisable dans l'immédiat, ni un but en soi. 
+Le rapport met d'abord en avant la nécessité de définir les pathologies et les professions exposées, ce qui est inachevé dans l'état actuel des connaissances médicales. Plusieurs acteurs mettent ainsi en avant la nécessité d’une définition médicale du burn-out comme présupposé à la qualification de maladie professionnelle. Dans les entreprises également, les employeurs veulent cerner cette notion et s’appuient sur les recherches scientifiques. Selon Michel Guilbaud, le directeur général du MEDEF, il n’est pas possible de mettre le burn-out dans une loi sans avoir de définition scientifique de celui-ci. On note en effet une focalisation sur la recherche d’une définition scientifique qui justifie un statu quo et un immobilisme quant aux moyens mis en oeuvre dans les champs juridiques et politiques. Les organisations salariales auditionnées par la mission de l’Assemblée Nationale ont pu expliquer quant à elles qu'une définition n’était, selon elles, pas si éloignée et pourrait être trouvée à brève échéance, de manière à pouvoir avancer dans le débat sur la réparation et la prévention. Le rapport de l’Assemblée Nationale attire de plus l’attention sur un problème tout à fait factuel: il y a une contradiction entre l’augmentation du nombre de cas d’épuisement professionnel et les capacités des comités de reconnaissance des maladies professionnelles. La facilitation de la reconnaissance pour les cas de burn-out conduirait, de manière analogue à la pénibilité du travail par exemple, à une augmentation exponentielle du nombre de cas portés à l’attention des comités et ce d'autant plus si l'on emploit une définition large du burn-out, ce qui n’améliorerait pas <I>in fine</I> la prise en charge des victimes. Face au risque de surcharger les comités en simplifiant la procédure complémentaire, le rapport de l'Assemblée nationale propose d'en doubler les effectifs. A l'inverse, l'intégration à la loi du burn-out avec une définition trop restrictive pourrait même apparaître contre-productive par rapport au travail fait sur la reconnaissance de la souffrance professionnelle. C’est l’avis de certaines associations militant pour une meilleure visibilité des troubles psychiques dans leur globalité dans la santé au travail (ASD-pro par exemple). Elles reconnaissent la souffrance au travail, dont les symptômes ont pu être regroupés sous le terme de “burn-out’, mais elles pensent que cette dénomination serait superflue et retarderait encore la reconnaissance de l'ensemble des troubles psychiques au travail en plus d’exclure un certain nombre de cas. Enfin, des acteurs divers, aussi bien particuliers, médecins que juristes, se disent surtout enclins à une réflexion sur le renouvellement des tableaux de maladies professionnelles et à une modernisation des procédures qui ne peuvent actuellement pas prendre en compte de part leur fonctionnement les pathologies psychiques et l’origine multifactorielle des maladies. En effet, inscrire le burn-tout aux tableaux de maladies professionnelles impliquerait une présomption d'imputabilité, c'est-à-dire une affirmation quasi-automatique d'un lien de causalité entre les affections du salarié et son activité professionnelle. Or la question de la responsabilité dans les cas de burn-out est aussi difficile que fondamentale dans cette controverse. 
 
-
-insuffisances des catégories actuelles et apports d'un ajout aux tableaux
-préciser les autres pays européens non plus 
-Peut-on considérer comme une maladie professionnelle ? Obstacles àla reconnaissance
-3 voies de reconnaissance 
-
-Eva
-
-- Accident du travail (JPV)
-Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
-<br>
-
-
-- Accident du travail (JPV)
-Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
-<br>
 
 <h2>A qui attribuer la reponsabilité d'un burn-out ?</h2> 
 
