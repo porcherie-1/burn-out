@@ -50,9 +50,7 @@ Proposition n°1: Mettre en place un centre national de référence sur la sant�
 Proposition n°2: Confier au centre national de référence l'élaboration d'un questionnaire francophone, sur le modèle du Copenhagen Burnout Inventory, comme outil d'évaluation et de prévention destiné aux médecins de soins et aux médecins du travail. <br>
 Proposition n°3: Renforcer le maillage du territoire par un réseau de consultations multidisciplinaires consacrées à la souffrance au travail, intégrant les consultations existantes, en lien avec le centre national de référence. <br> </p>
 </div>
-</div>
-<small><br>
-
+</div><br>
 <p align="justify"> <a href="https://controverses.github.io/burn-out/acteurs#jean-paul-vouiller" target="_blank"> Jean-Paul Vouiller </a> propose un système de malus-bonus, pour lequel on récompenserait financièrement les entreprises prévenant l'épuisement professionnel, tandis Caroline Guillotin préfèrerait le réallouement d'un budget pour réorganiser le travail dans l'entreprise, plutôt que l'extraction d'un budget supplémentaire qui aurait effet de sanction pour des entreprises au budget serré. Selon elle, les 3 milliards d'euros, investis chaque année dans la formation par les entreprises en France, devraient être alloués plus précisément à la formation pour une réorganisation du travail.
 
 Par ailleurs, Muriel Barbé rappelle que la prévention primaire se fait nécessairement avec un temps de retard. Nous ne pouvons contrôler ni donc anticiper ce qu'implique la révolution numérique sur notre travail. Il est donc difficile d'inciter à mettre en place des politiques de prévention, qui seront peut-être rapidement obsolètes. </p> 
