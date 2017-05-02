@@ -35,20 +35,18 @@ Ce cas où les salariés s'imposent un télétravail à eux-mêmes après leur t
 <p align="justify"> Etant donné que le burn-out mêle sphère professionnelle et sphère privée, ou du moins consiste en un débordement de la sphère professionnelle sur la sphère privée d'après Jean-Claude Delgènes, c'est surtout le rôle de la médecine du travail au sein de l'équipe de prévention qui est contesté. En effet, dès lors que la psychologie individuelle du salarié est impliquée, la médecine du travail peut avoir tendance . On retrouve le concept de "psychiatrisation de la souffrance" développée par Patrick Légeron. Caroline Guillotin s'oppose au contraire à une plus grande place à la médecine du travail. Celle-ci a tendance souvent à ne considérer que le rôle de psychologue. Selon elle, étant donné que l'épuisement professionnel implique la psychologie de l'individu et la perception subjective de ce qu'il a à accomplir, la médecine du travail a tendance à négliger les causes dûes uniquement à la sphère professionnelle. Par ailleurs, reconnaître le burn-out en tant que maladie professionnelle dans le but de le prévenir aurait l'effet contraire: le nombre de malades à soigner augmenterait, alors que l'organisation du travail resterait délétère.  </p> 
 
 <p align="justify"> Par ailleurs, les politiques de prévention ne se font pas à contre-courant de la politique de développement entreprise par l'employeur. Muriel Barbé pense en fait qu'il n'y a pas d'employeur fondamentalement mauvais, et que souvent, lorsqu'un cas d'épuisement professionnel est déclaré (à noter qu'il n'est pas obligatoire de donner un motif pour prendre un arrêt maladie, donc l'employeur peut ne jamais être au courant), l'employeur ne sait pas comment agir. </p> 
- <p align="justify"> >> "Je ne crois pas à l'employeur mauvais ni exploitant par nature. C'est vraiment une vision manichéenne et inintéressante de la vie." - Muriel Barbé </p> 
+ <p align="justify"> >"Je ne crois pas à l'employeur mauvais ni exploitant par nature. C'est vraiment une vision manichéenne et inintéressante de la vie." - Muriel Barbé </p> 
 <p align="justify"> L'employeur a donc souvent besoin d'un accompagnement, et ce qu'il soit du secteur public ou du secteur privé. </p> 
 
 ## Avec quelles incitations ?
 
-<p align="justify">Dans Idées reçues sur le burn-out, les auteurs prc- les moyens existent aujourd'hui mais pas de consensus, pas de coordination, dans les entreprises peur que remise en question du modèle de dvpt économique, sans garantie qu'on améliore la productivité (bouquin de JCD) </p> 
+<p align="justify">Dans Idées reçues sur le burn-out, les auteurs précident que des moyens de prévention existent aujourd'hui mais qu'il n'y a pas de consensus ni de coordination. Dans ce contexte, la remise en question du modèle de fonctionnement actuel est difficile à concrétiser, alors que la perspective de productivité est incertaine. Le rapport d'information de l'Assemblée nationale fait une série de 27 propositions, dont les premières doivent faciliter la coordination. </p>  
 <p align="justify"> <a href="https://controverses.github.io/burn-out/acteurs#jean-paul-vouiller" target="_blank"> Jean-Paul Vouiller </a> propose un système de malus-bonus, pour lequel on récompenserait financièrement les entreprises prévenant l'épuisement professionnel, tandis Caroline Guillotin préfèrerait le réallouement d'un budget pour réorganiser le travail dans l'entreprise, plutôt que l'extraction d'un budget supplémentaire qui aurait effet de sanction pour des entreprises au budget serré. Selon elle, les 3 milliards d'euros, investis chaque année dans la formation par les entreprises en France, devraient être alloués plus précisément à la formation pour une réorganisation du travail.
 
 Par ailleurs, Muriel Barbé rappelle que la prévention primaire se fait nécessairement avec un temps de retard. Nous ne pouvons contrôler ni donc anticiper ce qu'implique la révolution numérique sur notre travail. Il est donc difficile d'inciter à mettre en place des politiques de prévention, qui seront peut-être rapidement obsolètes. </p> 
 
 
 CITER PROPOSITIONS DU RAPPORT DE L'AN
-
-https://cadres.apec.fr/Emploi/Observatoire-de-l-emploi/Les-etudes-Apec-par-thematique/Vie-en-entreprise/Les-cadres-conscients-des-avantages-et-des-inconvenients-du-tout-connecte
 
 
 
