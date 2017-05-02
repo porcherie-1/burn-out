@@ -19,7 +19,7 @@ La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr
 </div>
 <br> 
 
-<h2>Un cadre juridique suffisant pour la prise en charge du burn-out ? </h2>
+<h3>Un cadre juridique suffisant pour la prise en charge du burn-out ? </h3>
 
 Une reconnaissance est donc possible, d'ialleurs les assos expliquent, mais très faible nombre, l.
 
