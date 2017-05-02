@@ -27,10 +27,10 @@ La Sécurité Sociale a recours à un <strong>système de <a href="http://www.in
 
 <p align="justify">Plusieurs recours sont possibles pour les salariés victimes de burn-out, permettant une meilleure indemnisation et une meilleure prise en charge que pour simple maladie. Les associations se font notamment le relai de ces démarches, conseillant les victimes sur la marche à suivre pour obtenir réparation (voir à titre d'exemple AFBO). Cependant, bien que croissant, le nombre de cas de burn-out reconnus comme maladie professionnelle reste faible (500 cas d’épuisement professionnel reconnus en 2015) et la réparation de la souffrance au travail est donc aujourd'hui davantage effective au travers d'autres affections psychiques tels que la dépression, les troubles anxieux et le stress post-traumatique, bien que la reconnaissance des pathologies psychiques reste faible dans toutes ces catégories.</p><br>
 
-<p>
+
 <ul>
 <li>Insuffisance des moyens actuels de prise en charge :</li>
-<ul>
+</ul>
 
 
 <blockquote>"Ils font tout pour nous décourager"</blockquote> <br> 
@@ -41,7 +41,7 @@ La Sécurité Sociale a recours à un <strong>système de <a href="http://www.in
 Une autre difficulté est de s’assurer qu’une situation de burn-out n’est pas causée par d’autres éléments de la vie du salarié que l’activité professionnelle, puisqu'en effet, la reconnaissance en maladie professionnelle <strong>engage la responsabilité</strong> de l'employeur. Or tous s'accordent pour dire que le burn-out est un <strong>syndrome multi-factoriel</strong>, ce qui complique la preuve d'un lien direct et essentiel à l'activité professionnelle. Le syndicaliste Jean-Paul Vouiller a pu nous expliquer à cet égard qu'il considérerait plus le burn-out comme un accident de travail au sens où il n'y a pas nécessairement de faute direct de l'employeur, mais surtout un surengagement individuel dans le travail. Seulement, la catégorie d'accident du travail n'apparaît pas non plus adéquate en ce qu'elle exige un <strong>critère de soudaineté</strong>. Mais, s'il peut apparaître de manière brutale, l'épuisement professionel est le plus souvent un processus lent, qui peut rester longtemps indétécté. C'était même l'une des caractéristiques de la définition de Philippe Zawieja : "cette condition psychique est progressive et peut longtemps passer inaperçue du sujet lui-même". Par conséquent il est difficile de le faire reconnaître comme accident du travail. Cette position, ni tout à fait accident du travail, ni tout à fait maladie professionnelle, rend difficile la prise en charge des salariés souffrant de burn-out qui arrivent rarement à obtenir réparation ou alors en étant reçu et donc traité pour d'autres pathologies comme la dépression.</p>
 
 
--<ul>
+<ul>
 <li>Apports d'une reconnaissance en tant que maladie professionnelle :</li>
 </ul>
 
