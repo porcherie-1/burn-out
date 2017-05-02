@@ -45,4 +45,7 @@ Ce cas où les salariés s'imposent un télétravail à eux-mêmes après leur t
 
 CITER PROPOSITIONS DU RAPPORT DE L'AN
 
+https://cadres.apec.fr/Emploi/Observatoire-de-l-emploi/Les-etudes-Apec-par-thematique/Vie-en-entreprise/Les-cadres-conscients-des-avantages-et-des-inconvenients-du-tout-connecte
+
+
 
