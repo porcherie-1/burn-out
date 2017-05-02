@@ -1,4 +1,4 @@
-# Réparer
+Réparer
 
 
 ## Reconnaissance comme maladie professionnelle
@@ -9,7 +9,7 @@ Ce sont ces revendications successives qui ont suscité un intérêt du législa
 ### Maladies professionnelles et accidents du travail en France 
 
 <p align="justify">La définition d’une maladie professionnelle est imprécise : elle est la conséquence directe de l’exposition d’un travailleur à un risque physique, chimique, biologique, ou résulte des conditions habituelles dans lesquelles il exerce son activité professionnelle.
-La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr/mp/cgi-bin/mppage.pl?state=1&acc=5&gs=&rgm=2" target="_blank">tableaux</a> pour les reconnaître. Chaque tableau indique les conditions nécessaires et suffisantes pour que la maladie soit reconnue par présomption d’origine (ou d'imputabilité). Une maladie est reconnue comme maladie professionnelle lorsqu’elle est mentionnée dans un tableau et remplit les conditions indiquées. Cela permet une prise en charge intégrale, assurée par la branche "Accidents du travail - Maladies professionnelles" (AT/MP) de la Sécurité sociale, financée à 97% par les cotisations des employeurs.<br>Or, aucune maladie psychique, y compris le burn-out, n’appartiennent à un tableau. L'article L.461-1 du Code de la Sécurité Sociale prévoit alors un système dit complémentaire de reconnaissance, et par là d’indemnisation, au cas par cas.<p>
+La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr/mp/cgi-bin/mppage.pl?state=1&acc=5&gs=&rgm=2" target="_blank">tableaux</a> pour les reconnaître. Chaque tableau indique les conditions nécessaires et suffisantes pour que la maladie soit reconnue par présomption d’origine (ou d'imputabilité). Une maladie est reconnue comme maladie professionnelle lorsqu’elle est mentionnée dans un tableau et remplit les conditions indiquées. Cela permet une prise en charge intégrale des soins, la compensation du salaire en cas d'arrêt de travail, et une rente en cas d'incapacité permanente, assurées par la branche "Accidents du travail - Maladies professionnelles" (AT/MP) de la Sécurité sociale, financée à 97% par les cotisations des employeurs.<br>Or, aucune maladie psychique, y compris le burn-out, n’appartiennent à un tableau. L'article L.461-1 du Code de la Sécurité Sociale prévoit alors un système dit complémentaire de reconnaissance, et par là d’indemnisation, au cas par cas.<p>
 
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
@@ -19,27 +19,42 @@ La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr
 </div>
 <br> 
 
-<p align="justify">L'accident du travail est en revanche un "accident qui survient par le fait du travail, pendant l’exercice du travail, sur le lieu de travail à toute personne, salariée ou non, qui travaille, en quelque lieu que ce soit, pour un ou plusieurs employeurs", provoquant des blessures corporelle, généralement simples à constater, ou psychiques. De plus, c'est un évènement qui s'est passé à un endroit précis et à un moment connu. Ainsi, la preuve d'une relation de de cause à effet entre le dommage subi et le fait qui l'a provoqué est le plus souvent facile à apporter. La réparation est également assurée par la branche AT/MP. Le suicide pendant un arrêt maladie pour burn-out a pu être reconnu au fruit de longues procédures comme accident du travail par la CPAM. En effet, les tribunaux  reconnaissent la qualification d’accident du travail lorsqu’un événement soudain imputable au travail déclenche un processus psychologique maladif, comme par exemple l'annonce d'une rétrogadation. </p>  
+<p align="justify">L'accident du travail est en revanche un "accident qui survient par le fait du travail, pendant l’exercice du travail, sur le lieu de travail à toute personne, salariée ou non, qui travaille, en quelque lieu que ce soit, pour un ou plusieurs employeurs", provoquant des blessures corporelle, généralement simples à constater, ou psychiques. De plus, c'est un évènement qui s'est passé à un endroit précis et à un moment connu, alors que l'apparition de la maladie professionnelle est progressive. Ainsi, la preuve d'une relation de de cause à effet entre le dommage subi et le fait qui l'a provoqué est le plus souvent facile à apporter. La réparation est également assurée par la branche AT/MP. Le suicide pendant un arrêt maladie pour burn-out a pu être reconnu au fruit de longues procédures comme accident du travail par la CPAM. En effet, les tribunaux  reconnaissent la qualification d’accident du travail lorsqu’un événement soudain imputable au travail déclenche un processus psychologique maladif, comme par exemple l'annonce d'une rétrogadation. </p>  
 
 
 <h3>Un cadre juridique suffisant pour la prise en charge du burn-out ? </h3>
 
-> "Ils font tout pour nous décourager" explique Michelle Mailfait, qui se bat pour la reconnaissance du suicide de son mari en accident du travail  
 
+Plusieurs recours sont possibles pour les salariés victimes de burn-out, permettant une meilleure indemnisation et une meilleure prise en charge que pour simple maladie. Les associations se font notamment le relai de ces démarches, conseillant les victimes sur la marche à suivre pour obtenir réparation (voir à titre d'exemple AFBO). Cependant, bien que croissant, le nombre de cas de burn-out reconnus comme maladie professionnelle reste faible (500 cas d’épuisement professionnel reconnus en 2015). 
 
-Plusieurs recours sont possibles pour les salariés victimes de burn-out, qui leur permetteraient une meilleure indemnisation et une meilleure prise en charge que pour simple maladie. Les associations se font notamment le relai de ces démarches, conseillant les victimes sur la marche à suivre pour obtenir réparation (voir à titre d'exemple AFBO). , mais très faible nombre
+- Insuffisance des moyens actuels de prise en charge:<br>
+
+> "Ils font tout pour nous décourager" explique Michelle Mailfait, qui se bat pour la reconnaissance du suicide de son mari en accident du travail  
+
+A)	parcours du combattant, rare réussite, + difficultés d’objectivation et d’incapacité permanente (propositions de réduire) + problèmes place des psychiatres et médecins qui connaissent pas le travail + JPV dit accident du travail car pas faute de l'employeur mais pas suffisant non plus ni un élément soudain ni une maladie causée que par le travail (multifactoriel)
+
+- Apports d'une reconnaissance en tant que maladie professionnelle:<br>
+facilite, permet la prévention, permet une vraie prise en charge (traités pour dépression, etc autres trucs) puisque ça veut dire présomption immédiate d’imputabilité donc pas à la charge du salarié, plus on fait payer les entreprises et pas la sécu -> d’où une opposition logique, incitations financières à faire de la prévention 
+
 
 <h3>Une reconnaissance difficilement envisageable en l'état actuel </h3>
+Rapport de l’assemblée : ni faisable dans l’immédiat, ni un but en soi 
+-	Pb : pas de définitions, pas assez précis donc on pourrait tout mettre dedans, mais si trop précis ça permetterait pas de réparer bien les RPS en général -> ne serait peut être pas bénéfique à la souffrance au travail en général, risque d’une banalisation si on met dans la loi, les commissions seraient surchargées (rapport : doubler les effectifs pour améliorer le système complémentaire ?)
+-	Pb factuel : après tout le monde va se dire touché et on pourra juste pas tout prendre en charge si on facilite la procédure complémentaire afin de refonder les procédures et les tableaux pour intégrer les maladies multi factorielles MONTEE EN PUISSANCE DU NOMBRE DE DEMANDES, VOIR rapp
+-	Peut-on affirmer que c’est la faute de l’entreprise uniquement ? PAS UN BUT POUR TOUS LA RECONNAISSANCE EN MP 
 
-exemple de ceux qui demandent ça 
-système de reconnaissance maladie professionnelle accidents du travail
-encadré procédure complémentaire
+
 insuffisances des catégories actuelles et apports d'un ajout aux tableaux
 préciser les autres pays européens non plus 
 Peut-on considérer comme une maladie professionnelle ? Obstacles àla reconnaissance
 3 voies de reconnaissance 
 
 Eva
+
+- Accident du travail (JPV)
+Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
+<br>
+
 
 - Accident du travail (JPV)
 Contre partie: juriste de Hamon, cette catégorie n'est pas suffisante non plus
