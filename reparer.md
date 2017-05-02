@@ -20,7 +20,9 @@ La Sécurité Sociale a recours à un système de <a href="http://www.inrs-mp.fr
 
 
 ### Un cadre juridique suffisant pour la prise en charge du burn-out ? 
+
 Une reconnaissance est donc possible, d'ialleurs les assos expliquent, mais très faible nombre, l
+
 ### Une reconnaissance difficilement envisageable en l'état actuel 
 
 exemple de ceux qui demandent ça 
@@ -56,6 +58,7 @@ Pour ces acteurs, pénaliser une entité extérieure au sein de l'entreprise n'e
 
 
 <br>
+
 ## La judiciarisation du syndrôme d'épuisement profesionnel 
 
 <p align="justify">Porter le cas de burn-out en justice est une manière de réparer en imputant ou non des responsables. Plus que la simple réparation, la judiciarisation croissante des risques psycho-sociaux permet également de structurer l’action des directeurs des ressources humaines ou encore l’organisation des risques psycho-sociaux.</p>
