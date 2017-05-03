@@ -2,7 +2,7 @@
 
 Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs entretiens avec des acteurs majeurs de notre controverse. Nous avons également pu assister à des conférences sur le burn-out. 
 
-### Conférence : les RPS au prétoire (22 février 2017), avec Scarlett Salman et Rémy Ponge  
+### Conférence : les RPS au prétoire (22 février 2017)  
 
 <A HREF="conf1.pdf" target="_blank">RPS au prétoire</A>
 
