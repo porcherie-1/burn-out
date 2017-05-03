@@ -129,6 +129,14 @@ En effet, imputer un cas de RPS à l’organisation de l’entreprise et du trav
 L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs.</blockquote>
 <br>
 
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<p align="justify">L’arrêt Air France pose la question de la <strong>nature de l’obligation de sécurité de l’employeur</strong>. Les articles L.4121-1 et L4121-2 détaillent les mesures qui doivent être prises pour garantir cette obligation de sécurité. Parmi elles figurent l’obligation de prévenir, celle d’informer les salariés ou encore celle d’évaluer. Jusqu’en 2015, cette obligation est dite <strong>de résultat</strong>, c’est-à-dire que dès que la santé d’un salarié est touchée, l’employeur manque à son obligation de sécurité de résultat et est donc <strong>systématiquement responsable</strong>. Les mesures mises en place par l’entreprise pour garantir l’obligation de sécurité ne sont alors pas prises en compte : c’est-à-dire qu’un bon élève en matière de prévention sera logé à la même enseigne qu’un mauvais élève si un problème similaire apparaît dans les deux entreprises. Par conséquent, cette <strong>obligation de sécurité de résultat ne favorise pas la mise en place de mesures de prévention</strong> sur les lieux de travail. Avec l’arrêt Air France, l’obligation de sécurité est corrélée à la prévention (les mesures prises par l'employeur) et non plus au résultat (c’est-à-dire à l’absence de problème de santé des travailleurs). Désormais, l’attitude des employeurs détermine leur responsabilité. C’est ce que l’on appelle <strong>l’obligation de sécurité de moyens renforcée</strong>. En plus d’alléger l’employeur, cette décision <strong>favorise la prévention</strong> : les employeurs ont désormais un intérêt à mettre en place des mesures préventives afin d’éviter tout accident.
+</p>
+</div>
+</div>
+<br>
+
 <p align="justify">Ainsi, si l’entreprise a mis en place des moyens pour garantir la sécurité des salariés, elle n’est pas imputable en cas d’accident du travail.</p>
 
 
