@@ -79,7 +79,7 @@ Un trait non négligeable du débat autour du burn-out est ainsi le manque de co
 <p align="justify"> De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme <a href="https://controverses.github.io/burn-out/acteurs#technologia" target="_blank">Jean-Claude Delgenes </a> estiment que le burn-out peut également toucher les étudiants. D’après le rapport de l’Assemblée Nationale, “le burn-out résulterait de l’exposition à plusieurs facteurs de risques psychosociaux, créant une situation de déséquilibre pour l’individu”, aussi variés que le célibat, la séparation, des restructurations d’entreprise… Les études ne sont aujourd’hui pas assez complètes pour définir et connaître précisément la part de ces facteurs dans l’apparition de burn-out. 
  </p>
 
-<img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+<img src="Capture d’écran 2017-05-04 à 00.01.20.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 <br>
 
 ## Construction sociale du burn-out 
@@ -88,7 +88,7 @@ Un trait non négligeable du débat autour du burn-out est ainsi le manque de co
 
 <p align="justify">L'étude du Cabinet Technologia a également permis de déceler les catégories socio-professionnelles les plus touchées par le burn-out. Parmi elles, figurent les agriculteurs, les artisans et les catégories intellectuelles supérieures.</p> 
 
-<img src="Capture d’écran 2017-05-04 à 00.01.20.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+<img src="Capture d’écran 2017-04-29 à 22.31.22.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 
 
 <p align="justify"> Tout d’abord, les réflexions sur le burn-out sont nées autour des professions des soignants. C’est pourquoi les infirmières sont mieux informées sur le burn-out. On a ainsi intégré très tôt des formations pour reconnaître un cas de burn-out et le prévenir, à l'aide de brochures ou encore des offres d’accompagnement psychologique. Au contraire, chez les policiers, dans un contexte de “préoccupation sociale croissante pour la sécurité”, des psychologues abordent les thématiques du stress mais cela se fait moins naturellement que chez les infirmières. Une campagne de sensibilisation sur ce thème proposée par CFE-CGC a été menée dans les années 1990 afin que les cadres soient plus à même de comprendre le stress qui est présent dans leur métier. Des formations spécifiques ont été proposées aux managers. Ces premières mobilisations, portées par divers acteurs, ont permis de reconnaître quelques formes de stress au travail. Ce phénomène a ensuite été institutionnalisé au travers d’accords collectifs comme <a href="http://www.dgdr.cnrs.fr/drh/protect-soc/documents/fiches_rps/ue_accord_cadre_8_octobre_2004.pdf " target="_blank">l’accord-cadre sur le stress au travail du 8 octobre 2004 </a> et des structures dédiées au stress comme des groupes de parole, des cabinets spécialisés (par exemple, le cabinet Technologia). </p> 
