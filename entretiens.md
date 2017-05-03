@@ -30,3 +30,7 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 <A HREF="entretien5.pdf" target="_blank">Jean-Claude Delgenes</A>
 
+### Entretien avec Max Masse (3 mai 2017) 
+
+<A HREF="Entretien-MaxMasse.pdf" target="_blank">Max Masse</A>
+
