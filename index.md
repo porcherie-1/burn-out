@@ -27,6 +27,7 @@ La première mention du concept d’épuisement est faite par le psychiatre fran
 
 <div style="padding 4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
+
 <strong>Une symptomatologie du burn-out :</strong><br>  
 <p align="justify">- Manifestations <strong>émotionnelles</strong>  : perte de contrôle, peurs irréprésibles, attitude apathique, dépressivité, perte des valeurs et de l'empathie, perte de sens généralisée  <br>
 - Manifestations <strong>comportementales</strong>  : isolement social, agressivité, cynisme, désengagement moral envers autrui et envers le travail, absentéisme, manque d'énergie, consommation de substances  <br>
