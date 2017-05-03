@@ -79,7 +79,7 @@ Un trait non négligeable du débat autour du burn-out est ainsi le manque de co
 <p align="justify"> De plus, il est difficile de borner le burn-out au monde professionnel puisque certains experts comme <a href="https://controverses.github.io/burn-out/acteurs#technologia" target="_blank">Jean-Claude Delgenes </a> estiment que le burn-out peut également toucher les étudiants. D’après le rapport de l’Assemblée Nationale, “le burn-out résulterait de l’exposition à plusieurs facteurs de risques psychosociaux, créant une situation de déséquilibre pour l’individu”, aussi variés que le célibat, la séparation, des restructurations d’entreprise… Les études ne sont aujourd’hui pas assez complètes pour définir et connaître précisément la part de ces facteurs dans l’apparition de burn-out. 
  </p>
 
-<img src="Capture d’écran 2017-05-01 à 11.44.54.png " alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
+<img src="Capture d’écran 2017-05-04 à 00.01.20.png" alt="Schéma-STS" usemap="#sommairemap" style="hight:calc(100vh - 150px);width:auto;">
 <br>
 
 ## Construction sociale du burn-out 
