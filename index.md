@@ -34,7 +34,6 @@ La première mention du concept d’épuisement est faite par le psychiatre fran
 - Retentissements <strong>somatiques</strong>  : douleurs dorsales, céphalées, nausées, vertiges, troubles du sommeil, prise ou perte de poids</p>
 </div>
 </div>
-<br> 
 
 <br>
 ## Pourquoi étudier le burn-out : Notre projet  
