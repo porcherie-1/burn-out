@@ -70,4 +70,5 @@ Circulaire Valls : expliquer management
 - MAIS DEJA QUELLE FORME DE SANCTION 
 - DIFFICILE D'ADMINISTRER LA PREUVE: MAX MASSE RAISON CAUSES CONSEQUENCES <p>
 
+MAX MASSE: ETUDES D'IMPACT ULTRA EN AMONT (tellement en amont que cela ne relève pas de la prévention), comme un bilan financier, dans organisation du travail - sous-partie ? 
 
