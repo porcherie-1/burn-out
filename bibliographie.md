@@ -88,7 +88,8 @@ http://firps.org/wp-content/uploads/2016/03/FIRPS_Livret-Burnout_SP.pdf
 ## Organisation du travail 
 
 - APEC, "Les cadres conscients des avantages et des inconvénients du "tout connecté", 3 décembre 2014 
-https://cadres.apec.fr/Emploi/Observatoire-de-l-emploi/Les-etudes-Apec-par-thematique/Vie-en-entreprise/Les-cadres-conscients-des-avantages-et-des-inconvenients-du-tout-connecte 
+https://cadres.apec.fr/Emploi/Observatoire-de-l-emploi/Les-etudes-Apec-par-thematique/Vie-en-entreprise/Les-cadres-conscients-des-avantages-et-des-inconvenients-du-tout-connecte
+- Circulaire relative à la gestion des cadres et au management dans la fonction publique de l'Etat, par le Premier ministre Manuel Valls, 10 juin 2015
 
 
 ## Ouvrages généraux 
