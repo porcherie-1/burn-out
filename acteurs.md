@@ -16,10 +16,6 @@
 <p align="justify">Sociologue chargé de recherche au CNRS, il étudie la construction sociale du stress et de la souffrance au travail. Il pense que le burn-out ne doit pas être combattu via la reconnaissance en tant que maladie professionnelle mais au contraire, il devrait être considéré de manière plus profonde en favorisant "les formes organisationnelles et les relations sociales au travail" (prendre en compte l'isolement des salariés, créer des échanges autour du travail, organisation plus horizontale). Individualiser le burn-out n'est pas souhaitable car cela met plus de pression sur le salarié et le fait culpabiliser parce qu'il n'est pas parvenu à trouver un bon équilibre entre le travail et sa vie privée. </p> 
 <br>
 
-## Max Masse
-(Laura ??? Ou on l'enlève)
-<br>
-
 ## Bernard Morat 
 <p align="justify">Médecin du travail en Indre-et-Loire, Bernard Morat est à l'origine d'un appel demandant aux ministères de la Santé et du Travail la reconnaissance du burn-out comme maladie professionnelle face à sa "montée en puissance, en nombre et en gravité", aux côtés de 18 médecins du travail de Touraine. Il met en cause des méthodes de management pathogènes, l'intensification du travail et de la productivité des gens, au lieu d'embaucher, et la perte d'autonomie, avec les e-mails, les ordinateurs et les smartphones qui créent une liaison permanente avec l'entreprise. Il souligne également les mutations apportées par la crise et la peur du chômage, mettant en avant de plus le fort coût économique de la souffrance au travail. Il propose ainsi de faire payer aux entreprises le coût du burn-out afin de les inciter à en assurer la prévention, et d'infliger des sanctions financières aux entreprises où le plus de cas sont déclarés.<br>
 <a href="http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel" target="_blank">Lettre de Bernard Morat au président de la FIRPS</a>
