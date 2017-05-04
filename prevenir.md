@@ -1,4 +1,4 @@
-# Prévenir face à un monde qui bouge
+# Prévenir les risques dans un cadre de travail qui évolue
 
 <p align="justify"> Que permet le burn-out en matière de prévention de la souffrance au travail ? <br>
 On peut tout d'abord préciser les trois types de prévention reconnus par l'Organisation Mondiale de la Santé, que nous a précisées Muriel Barbé : <br>
