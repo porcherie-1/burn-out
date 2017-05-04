@@ -16,3 +16,4 @@ Pour prévenir: important parce que pas histoire de conceptualisation, idée dé
 Pas assez qualifié. Pour l'instant, on n’y arrive pas. Au niveau international, ils ne travaillent pas la dessus. NRA : pas de travaux sur l’épuisement professionnel. Travaux nosographiques des maladies psychiques. 1. Le champ du travail est central, dans ce champ, des gens ne vont pas bien. 
 Mon avis, très généralement partagé, est que les organisations sont hautement responsables. On ne peut pas continuer à organiser le monde en ayant une gestion pyramidale des individus" (extrait entretien avec Sebaoun)
  
+ déjà concevoir travail comme vecteur d'épanouissement, activité et pas rapport d'exploitation, mais toute la question est de délimiter cette activité, d'éviter débordement sur sphère personnelle.... 
