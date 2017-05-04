@@ -37,23 +37,25 @@ https://www.legifrance.gouv.fr/eli/loi/2016/8/8/ETSX1604461L/jo/article_55
 
 ## Domaine médical
 - DELBROUCK Michel, "Burn-out et médecine", _Cahiers de psychologie clinique_, 2007 
-http://www.cairn.info/revue-cahiers-de-psychologie-clinique-2007-1-page-121.htm  
+http://www.cairn.info/revue-cahiers-de-psychologie-clinique-2007-1-page-121.htm 
+- KOVESS-MASFETY V., SAUNDER L., "Le burnout: historique, mesures et controverses",_ScienceDirect_, janvier 2016
 - RIVA Catherine, "Le burnout : une maladie qui n'existe pas ?", _Le Matin_, in Association des Médecins du canton de Genève, 17 décembre 2006 
 - ROSIER Florence, “Comment le stress nous expose à l’accident cardiovasculaire”, _Le Monde science et médecine_, N°22399, 18 janvier 2017 
+- WEBER A. and JAEKEL-REINHARD A., "Burnout syndrome: a disease of modern societies ?", _Occup.Med._, Vol.50, No.7, pp.512-517,2000
 - "Epuisement professionnel et dépression peuvent être distingués par la salive et le sang", _Psychomédia_, 23 février 2011
 http://www.psychomedia.qc.ca/depression/2011-02-23/burnout-depression-distingues-par-des-mesures-biologiques 
 - "De simples analyses de salive et de sang pourraient détecter précocement l'épuisement professionnel", _Techno-science.net_, 23 mars 2011  
 http://www.techno-science.net/?onglet=news&news=8760 
 - Rapport de l'Académie Nationale de Médecine sur le burn-out, 26 février 2016
 http://www.academie-medecine.fr/wp-content/uploads/2016/02/26-fev-2016-RAPPORT-ACADEMIE-Burn-out-V3.pdf
-- WEBER A. Weber and JAEKEL-REINHARD A., "Burnout syndrome: a disease of modern societies ?", _Occup.Med._, Vol.50, No.7, pp.512-517,2000
-- KOVESS-MASFETY V., SAUNDER L., "Le burnout: historique, mesures et controverses",_ScienceDirect_, janvier 2016
 
 ## Dossier de presse 
 - ARIES Rosanne, "Une avancée pour les agriculteurs en burn-out", _La France Agricole_, 14 février 2017 
 http://www.lafranceagricole.fr/actualites/gestion-et-droit/aide-au-repit-une-avancee-pour-les-agriculteurs-en-burn-out-1,1,564292833.html
 - BOFF Céline, "Burn-out : En France, avoir l'air heureux au travail est suspect", _20 minutes_, octobre 2015
 http://www.20minutes.fr/economie/1705363-20151008-burn-out-france-avoir-air-heureux-travail-suspect 
+- DELMAS Aurélie, "Non Benoît Hamon, il n'y a pas qu'en France qu'on ne reconnaît pas le burn-out", _Libération_, 11 janvier 2017 
+http://www.liberation.fr/desintox/2017/01/11/non-benoit-hamon-il-n-y-a-pas-qu-en-france-qu-on-ne-reconnait-pas-le-burn-out_1540216
 - MASSILLON Julien, "Ruiné et au plus mal, Guillaume Canet a fait un burn-out après l'échec de son film Blood Tied", _Voivi_, 24 janvier 2017 
 http://www.voici.fr/news-people/actu-people/ruine-et-au-plus-mal-guillaume-canet-a-fait-un-burn-out-apres-l-echec-de-son-film-blood-ties-620711
 - MESMER Philippe, "Au Japon, un plan d'action contre la 'mort par surmenage'", _Le Monde_, 13 février 2017 
@@ -72,8 +74,6 @@ http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
-- DELMAS Aurélie, "Non Benoît Hamon, il n'y a pas qu'en France qu'on ne reconnaît pas le burn-out", _Libération_, 11 janvier 2017 
-http://www.liberation.fr/desintox/2017/01/11/non-benoit-hamon-il-n-y-a-pas-qu-en-france-qu-on-ne-reconnait-pas-le-burn-out_1540216
 - Lettre ouverte "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", Miroir Social, 14 avril 2016
 http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel
 
