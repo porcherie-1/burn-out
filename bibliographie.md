@@ -26,14 +26,16 @@ http://www.miroirsocial.com/actualite/13023/comment-developper-l-ecoute-individu
  http://www.miroirsocial.com/actualite/14399/accompagnement-de-proximite-deja-80-delegues-sociaux-formes-a-la-methode-quebecoise 
 
 ## Domaine juridique 
-- GOANEC Mathilde, Difficile consensus autour du burn out, _Mediapart.fr_, 4 juillet 2015
-http://sudeducation37.fr/IMG/pdf/article_548407.pdf 
 - Rapport d'information de l'Assemblée nationale, _Assemblée nationale_, 15 février 2017 
 http://www2.assemblee-nationale.fr/documents/notice/14/rap-info/i4487
 - Plan santé au travail, 2016-2020, _Ministère du Travail, de l’Emploi, de la Formation professionnelle et du Dialogue social_
 http://travail-emploi.gouv.fr/IMG/pdf/pst3.pdf
 - Article 55 du Code du Travail relatif au droit à la déconnexion (amendement à la loi L2242-8), loi du 8 août 2016
 https://www.legifrance.gouv.fr/eli/loi/2016/8/8/ETSX1604461L/jo/article_55
+- GOANEC Mathilde, Difficile consensus autour du burn out, _Mediapart.fr_, 4 juillet 2015
+http://sudeducation37.fr/IMG/pdf/article_548407.pdf 
+- "Loi travail : fin de la visite médicale d’embauche systématique et espacement des visites périodiques", Editions Tissot
+https://www.editions-tissot.fr/actualite/droit-du-travail-article.aspx?secteur=PME&id_art=7839&titre=Loi+travail+%3A+fin+de+la+visite+m%C3%A9dicale+d%E2%80%99embauche+syst%C3%A9matique+et+espacement+des+visites+p%C3%A9riodiques
 
 ## Domaine médical
 - DELBROUCK Michel, "Burn-out et médecine", _Cahiers de psychologie clinique_, 2007 
