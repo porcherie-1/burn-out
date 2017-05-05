@@ -1,6 +1,6 @@
 # Fiches Acteurs 
 
-<i> Cette section regroupe les acteurs ayant exprimé clairement une opinion sur la notion de "burn-out" (au-delà du cadre de nos entretiens) et qui nourrissent ainsi le débat à son propos. </i>
+<p align="justify"><i> Cette section regroupe les acteurs ayant exprimé clairement une opinion sur la notion de "burn-out" (au-delà du cadre de nos entretiens) et qui nourrissent ainsi le débat à son propos. </i> </p>
 
 <br>
 ## Associations
