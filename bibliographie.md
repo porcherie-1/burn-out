@@ -72,12 +72,14 @@ http://leplus.nouvelobs.com/contribution/1486645-un-burn-out-n-est-ni-un-epuisem
 http://www.gqmagazine.fr/pop-culture/news/articles/en-plein-burn-out-kanye-west-a-ete-hospitalise-durgence/48069 
 - "Plus de 3 millions de Français au bord du burn-out", _Le Monde_, 22 janvier 2014 
 http://www.lemonde.fr/economie/article/2014/01/22/plus-de-3-millions-de-francais-au-bord-du-burn-out_4352438_3234.html
-- "Surmenage : c'est dûr, dûr de travailler", _L'Observatoire de la santé_, 23 février 2017 
+- "Surmenage : c'est dur, dur de travailler", _L'Observatoire de la santé_, 23 février 2017 
 http://www.observatoire-sante.fr/surmenage-cest-dur-dur-de-travailler/ 
 - Pub Pepsi sur le Burn-out (France - 2011)
 http://www.culturepub.fr/videos/pepsi-max-burnout/
 - Lettre ouverte "Pourquoi un débat stérile dans le débat utile sur la prévention de l'épuisement professionnel ?", Miroir Social, 14 avril 2016
 http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-debat-utile-sur-la-prevention-de-l-epuisement-professionnel
+- "Le stress coûte cher", Capital, 1er juillet 2008
+http://www.capital.fr/carriere-management/dossiers/le-stress-coute-cher-194868
 
 ## Etudes sur le burn-out 
 - Blog de Technologia : http://www.technologia.fr/blog/reconnaitre-le-burn-out-comme-maladie-professionnelle/
@@ -85,6 +87,7 @@ http://www.miroirsocial.com/actualite/13243/pourquoi-un-debat-sterile-dans-le-de
 http://www.ipubli.inserm.fr/bitstream/handle/10608/217/?sequence=13 
 - Etude du Cabinet Technologia : http://www.technologia.fr/blog/wp-content/uploads/2014/01/Burn-out-Etude-clinique-et-organisationnelle-janvier-2014.pdf 	
 - Guide d'aide à la prévention « Le syndrome d’épuisement professionnel ou burnout. Mieux comprendre pour mieux agir » réalisé par la Direction générale du travail (DGT), l’Institut national de recherche et de sécurité (INRS) et l’Anact, 2015
+http://travail-emploi.gouv.fr/IMG/pdf/Exe_Burnout_21-05-2015_version_internet.pdf
 - KHIREDDINE et al., _la souffrance psychique en lien avec le travail chez les salariés actifs en France entre 2007 et 2012_, Institut de Veille Sanitaire (INVS), 2015
 http://invs.santepubliquefrance.fr//beh/2015/23/pdf/2015_23_2.pdf 
 - "Prévenir le burn-out", Etude de la Fédération des Intervenants en Risques Psychosociaux (FIRPS), mars 2016
