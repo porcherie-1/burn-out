@@ -1,7 +1,7 @@
 # Prévenir face à un monde qui accélère 
 
 <p align="justify"> Que permet le burn-out en matière de prévention de la souffrance au travail ? <br>
-On peut tout d'abord évoquer les trois types de prévention reconnus par l'Organisation Mondiale de la Santé, que nous a précisées Muriel Barbé : <br>
+On peut tout d'abord évoquer les trois types de prévention reconnus par l'Organisation Mondiale de la Santé, que nous a précisées Muriel Barbé : <br></p>
 <ul>
 <li>prévention primaire : identifier et éliminer le danger, soit anticiper en amont tout épuisement professionnel éventuel auprès des salariés (aspect matériel du danger) </li>
 <li>prévention secondaire : gérer les risques, étant donné que le danger ne peut pas forcément vraiment être éliminé (aspect humain et relationnel du danger)</li> 
