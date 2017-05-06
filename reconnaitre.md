@@ -70,7 +70,7 @@ n
 <p align="justify">Le Centre de recherche sur les Risques et les Crises avance plusieurs chiffres clés sur le stress : il affecterait 28% des travailleurs (AESST, 2012) et 79% des managers européens (AESST, 2011). Le coût du stress est également estimé entre <strong>1 et 3,5% du PNB</strong> selon une étude de Hoel, Sparks et Cooper, parue en 2001.</p>
 
 <p align="justify">L'Académie de médecine estime quant à elle que les données ne sont pas suffisamment précises pour déterminer combien de personnes sont touchées par le burn-out aujourd'hui.</p>
-i
+
 > <p align ="justify"> Les données épidémiologiques sur le burn-out sont à ce jour très insuffisantes, tant dans le domaine descriptif qu'analytique. Cette défaillance est la conséquence logique des difficultés à poser avec précision les limites du burn-out (rapport de l'Académie de médecine sur le burn-out). </p> 
 
 <p align="justify">La quantification exacte du burn-out est encore impossible aujourd’hui à cause des instruments employés : toutes les échelles qui existent font appel à l’auto-évaluation et ne sont donc pas fiables. Le député <a href="https://controverses.github.io/burn-out/acteurs#gerard-sebaoun" target="_blank">Gérard Sebaoun</a> que nous avons rencontré a cependant conclu que le nombre de cas se situait vraisemblablement entre <strong>30 000 et 100 000 personnes</strong>, 30 000 personnes correspondant à l’étude de l’Institut de Veille Sanitaire et 100 000 suite à l’extrapolation d’une enquête menée par l’Académie de médecine belge ( Service public fédéral Emploi, Travail et Concertation sociale, Direction générale Humanisation du travail, <i>Recherche sur le burn out au sein de la population active belge</i>, Bruxelles, 2011). </p>
