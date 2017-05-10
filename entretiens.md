@@ -14,7 +14,7 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
  <A HREF="entretien2.pdf" target="_blank">Gérard Sebaoun</A> 
 
-### Entretien téléphonique avec Caroline Guilltin (14 avril 2017) 
+### Entretien téléphonique avec Caroline Guillotin (14 avril 2017) 
 
  <A HREF="entretien3.pdf" target="_blank">Caroline Guillotin</A>
 
@@ -26,9 +26,9 @@ Dans le cadre de notre étude sur le burn-out, nous avons réalisé plusieurs en
 
 <A HREF="entretien4.pdf" target="_blank">Muriel Barbé</A>
 
-### Entretien avec Jean-Claude Delgenes (28 avril 2017) 
+### Entretien avec Jean-Claude Delgènes (28 avril 2017) 
 
-<A HREF="entretien5.pdf" target="_blank">Jean-Claude Delgenes</A>
+<A HREF="entretien5.pdf" target="_blank">Jean-Claude Delgènes</A>
 
 ### Entretien avec Max Masse (3 mai 2017) 
 
